@@ -1,0 +1,1958 @@
+0001|Alliteration|The repetition of identical initial consonant sounds in closely positioned words.|Peter Piper picked a peck of pickled peppers.
+0002|Allegory|A narrative in which characters and events symbolize broader abstract ideas or moral concepts.|George Orwell’s Animal Farm as a critique of totalitarianism.
+0003|Allusion|An indirect reference to a well-known person, event, text, or concept.|Your nose is growing.
+0004|Anaphora|The repetition of a word or phrase at the beginning of successive clauses.|I have a dream.
+0005|Antithesis|The juxtaposition of opposing ideas in parallel grammatical structures.|It was the best of times, it was the worst of times.
+0006|Apostrophe|Direct address to an absent person, abstract idea, or inanimate object.|O Death, where is thy sting?
+0007|Assonance|The repetition of vowel sounds in nearby words.|The rain in Spain stays mainly in the plain.
+0008|Asyndeton|The deliberate omission of conjunctions between related clauses or words.|I came, I saw, I conquered.
+0009|Chiasmus|A reversal of grammatical structures in successive phrases.|Ask not what your country can do for you—ask what you can do for your country.
+0010|Climax|An arrangement of ideas in increasing order of significance.|He whispered, he spoke, he shouted.
+0011|Colloquialism|Informal language specific to a region or social group.|Gonna grab some food.
+0012|Euphemism|A mild or indirect expression substituted for one considered harsh.|Passed away.
+0013|Hyperbole|Deliberate exaggeration for emphasis or effect.|I’ve told you a million times.
+0014|Metaphor|A direct comparison asserting one thing is another.|Time is a thief.
+0015|Metonymy|Substitution of a related concept for the thing itself.|The White House issued a statement.
+0016|Onomatopoeia|A word that imitates the sound it represents.|Buzz.
+0017|Oxymoron|The pairing of contradictory terms.|Deafening silence.
+0018|Paradox|A statement that appears contradictory but reveals a truth.|Less is more.
+0019|Personification|Attribution of human qualities to nonhuman entities.|The wind whispered.
+0020|Polysyndeton|The repeated use of conjunctions for emphasis.|And the rain and the wind and the thunder came.
+0021|Simile|A comparison using “like” or “as.”|Brave as a lion.
+0022|Synecdoche|A figure of speech in which a part represents the whole.|All hands on deck.
+0023|Understatement|Intentional minimization of importance or intensity.|It’s just a scratch.
+0024|Anadiplosis|Repetition of the final word of one clause at the beginning of the next.|Fear leads to anger; anger leads to hate.
+0025|Anastrophe|Inversion of normal word order for emphasis.|Gone are the days.
+0026|Anacoluthon|A sudden grammatical break within a sentence.|If you think—well, that’s not the point.
+0027|Catachresis|The misuse of a word in a strained or metaphorical way.|Bitter silence.
+0028|Epizeuxis|Immediate repetition of a word for emphasis.|Never, never, never!
+0029|Hypophora|Raising a question and immediately answering it.|What makes a hero? Courage.
+0030|Merism|Reference to a whole by enumerating its parts or extremes.|Search high and low.
+0031|Parataxis|Placement of clauses side by side without subordination.|I came. I saw. I conquered.
+0032|Pleonasm|Use of redundant words for emphasis.|Free gift.
+0033|Prosopopoeia|Speaking as or giving voice to an absent or imaginary entity.|Justice speaks.
+0034|Syllepsis|A word applied to two others in different senses.|He lost his coat and his temper.
+0035|Tautology|Unnecessary repetition of the same idea.|It was a true fact.
+0036|Zeugma|A single word governing multiple parts in different meanings.|She broke his car and his heart.
+0037|Amphiboly|Ambiguity caused by unclear grammatical structure.|I saw the man with the telescope.
+0038|Antonomasia|Replacement of a proper name with a descriptive title.|The Bard.
+0039|Enthymeme|An argument with an implied premise.|He’s trustworthy—he’s honest.
+0040|Epistrophe|Repetition of a word or phrase at the end of successive clauses.|See no evil, hear no evil, speak no evil.
+0041|Irony|A contrast between expectation and reality.|A fire station burns down.
+0042|Litotes|Affirmation through negation of the opposite.|Not bad.
+0043|Parody|Imitative work exaggerating features for humorous effect.|A mock superhero film.
+0044|Sarcasm|Bitter or mocking irony intended to wound.|Great job.
+0045|Satire|Use of humor or exaggeration to criticize society or individuals.|Political cartoons.
+0046|Burlesque|Exaggerated imitation that trivializes a subject.|A melodramatic spoof.
+0047|Caricature|Exaggeration of distinctive traits for comic effect.|A politician drawn with an oversized head.
+0048|Dysphemism|Use of a harsh or derogatory term instead of a neutral one.|Pig instead of police officer.
+0049|Lampoon|A sharp, satirical attack on a person or institution.|A scathing editorial.
+0050|Travesty|A distorted or absurd imitation of something serious. A farcical remake of a tragedy.|Logical and Argumentative Terms
+0051|Erroneous|Containing an error; based on incorrect reasoning or facts.|The conclusion was erroneous because the data was misread.
+0052|Inference|A conclusion reached from evidence and reasoning rather than direct observation.|Seeing dark clouds, she inferred it would rain.
+0053|Deduce|To derive a specific conclusion from general principles or premises.|From the rule, he deduced the correct answer.
+0054|Equivocal|Open to more than one interpretation; ambiguous.|His response was equivocal and avoided commitment.
+0055|Straw man|A fallacy that misrepresents an opponent’s argument to make it easier to attack.|He argued against banning cars when no one proposed it.
+0056|Steel man|The practice of strengthening an opponent’s argument before responding to it.|She restated his position in its strongest form.
+0057|Fallacy|An error in reasoning that undermines an argument’s validity.|The argument relied on a logical fallacy.
+0058|Litmus test|A decisive test used to determine validity or acceptability.|Consistency became the litmus test for truth.
+0059|Syllogism|A formal logical argument with two premises and a conclusion.|All humans are mortal; Socrates is human; Socrates is mortal.
+0060|Ethos|Appeal to credibility or moral character in persuasion.|The doctor’s expertise established ethos.
+0061|Logos|Appeal to logic and reason through evidence or argument.|Statistics strengthened the logos of the claim.
+0062|Pathos|Appeal to emotion to persuade an audience.|The story evoked pity and fear.
+0063|Ad absurdum|Argument that disproves a claim by showing it leads to absurd results.|Assuming the rule was universal led to contradiction.
+0064|Ad hominem|A fallacy attacking the person instead of the argument.|He dismissed the claim by insulting the speaker.
+0065|Begging|Assuming the truth of what one is trying to prove.|The argument begged the question.
+0066|Circular|Reasoning in which the conclusion is used as a premise.|It’s true because it’s true.
+0067|Contradiction|A statement that asserts both a claim and its negation.|The theory affirmed and denied causality.
+0068|Contraposition|A logical transformation where both terms are negated and reversed.|If P implies Q, then not-Q implies not-P.
+0069|Corollary|A proposition that follows directly from a proven statement.|The result had several corollaries.
+0070|Deduction|Reasoning from general principles to specific conclusions.|Mathematics relies heavily on deduction.
+0071|Equivocate|To use ambiguous language to obscure meaning.|He equivocated on the word “freedom.”
+0072|Equivocation|A fallacy caused by shifting the meaning of a term mid-argument.|“Light” changed from weight to brightness.
+0073|Induction|Reasoning from specific observations to general conclusions.|Repeated trials supported the hypothesis.
+0074|Non sequitur|A conclusion that does not logically follow from its premises.|He’s rich, therefore he’s wise.
+0075|Post hoc|A fallacy assuming causation from sequence.|The rooster crowed, then the sun rose.
+0076|Presupposition|An implicit assumption required for a statement to make sense.|The question presupposed guilt.
+0077|Reductio|A method of refutation by deriving a contradiction.|The claim collapsed under reductio.
+0078|Supposition|A tentative assumption made for argument or analysis.|For the sake of supposition, assume infinity.
+0079|Aporia|Expression of doubt or puzzlement in reasoning.|The dialogue ends in aporia.
+0080|Axiom|A self-evident principle accepted without proof.|Equality is an axiom of arithmetic.
+0081|Axiomatic|Based on or derived from accepted axioms.|The system is axiomatic.
+0082|Dialectic|Reasoned exchange of opposing ideas to reach truth.|Thesis and antithesis formed a dialectic.
+0083|Lemma|A subsidiary proposition used to prove a larger theorem.|The lemma simplified the proof.
+0084|Predicate|The part of a statement that asserts something about the subject.|“Is mortal” is the predicate.
+0085|Proof|A logical demonstration establishing a conclusion as true.|The proof was formally valid.
+0086|Theorem|A statement proven through logical reasoning from axioms.|The Pythagorean theorem.
+0087|Suffix|A bound morpheme added to the end of a word to modify meaning or grammatical function.|Happiness.
+0088|Morpheme|The smallest unit of meaning in a language.|Unbreakable contains three morphemes.
+0089|Derivational morpheme|A morpheme that creates a new word or changes word class.|Teach → teacher.
+0090|Inflectional morpheme|A morpheme that marks grammatical features without changing word class.|Walked.
+0091|Bound morpheme|A morpheme that cannot stand alone as a word.|Un-.
+0092|Free morpheme|A morpheme that can stand alone as a word.|Book.
+0093|Compounding|The formation of a word by combining two free morphemes.|Toothbrush.
+0094|Backformation|Creation of a word by removing a perceived affix.|Edit from editor.
+0095|Clipping|Word formation by shortening a longer word.|Gym from gymnasium.
+0096|Neologism|A newly coined word or expression.|Selfie.
+0097|Portmanteau|A word formed by blending parts of two words.|Brunch.
+0098|Etymology|The historical origin and development of a word.|The etymology of night traces to Proto-Indo-European.
+0099|Antonym|A word with the opposite meaning of another.|Hot and cold.
+0100|Homonym|A word identical in form to another but different in meaning.|Bat.
+0101|Polysemy|The condition of a word having multiple related meanings.|Head of a body, head of a company.
+0102|Acronym|A word formed from the initial letters of a phrase.|NASA.
+0103|Abbreviation|A shortened form of a word or phrase.|Dr.
+0104|Triliteral|Consisting of three letters or consonants, especially in Semitic roots.|The Hebrew root K-T-B.
+0105|Prefix|A bound morpheme attached to the beginning of a word.|Preheat.
+0106|Affix|A bound morpheme attached to a root or stem.|Unhappy.
+0107|Root|The core morpheme carrying primary meaning.|Struct in construction.
+0108|Stem|The form of a word to which inflectional morphemes are added.|Talk in talking.
+0109|Infix|A morpheme inserted within a word.|Abso-bloody-lutely.
+0110|Circumfix|A morpheme consisting of two parts that surround a root.|Ge-spiel-t in German.
+0111|Connotation|The emotional or cultural associations of a word.|Home suggests warmth.
+0112|Denotation|The literal or dictionary meaning of a word.|Home means a place of residence.
+0113|Grammar|The system of rules governing language structure.|English grammar.
+0114|Inflection|Modification of a word to express grammatical categories.|Cats.
+0115|Semantics|The study of meaning in language.|Lexical semantics.
+0116|Semiotics|The study of signs and meaning-making systems.|Traffic symbols.
+0117|Signified|The concept or meaning represented by a sign.|The idea of a tree.
+0118|Signifier|The form that represents the signified.|The word tree.
+0119|Syntax|The arrangement of words into phrases and sentences.|Word order in English.
+0120|Verb|A word that expresses an action, occurrence, or state of being.|Run.
+0121|Adjective|A word that modifies a noun by describing or limiting it.|Blue sky.
+0122|Noun|A word that names a person, place, thing, or idea.|Freedom.
+0123|Adverb|A word that modifies a verb, adjective, or another adverb.|Quickly.
+0124|Pronoun|A word that replaces or refers to a noun.|She.
+0125|Preposition|A word that shows the relationship between a noun and another word.|On the table.
+0126|Conjunction|A word that connects words, phrases, or clauses.|And.
+0127|Interjection|A word or phrase expressing emotion or reaction.|Wow!
+0128|Article|A determiner that specifies definiteness or indefiniteness.|The.
+0129|Determiner|A word that limits or specifies a noun.|This book.
+0130|Polygon|A closed plane figure composed of straight line segments.|Triangle.
+0131|Polyhedron|A three-dimensional solid bounded by polygonal faces.|Cube.
+0132|Venn diagram|A diagram showing set relationships using overlapping regions.|Two intersecting circles.
+0133|Elliptical|Having the shape or properties of an ellipse.|Elliptical orbit.
+0134|Ellipse|A closed curve where the sum of distances to two foci is constant.|Planetary orbit.
+0135|Toroidal|Having the shape or topology of a torus.|Donut-shaped field.
+0136|Bifurcation|A qualitative change in system behavior as a parameter varies.|Period-doubling in chaos.
+0137|Trilateral|Involving three sides or parties.|Trilateral agreement.
+0138|Abelian|Commutative under a given operation.|Abelian group.
+0139|Adjacency|The state of being next to or directly connected.|Adjacent nodes.
+0140|Algebra|The study of symbols and formal manipulation rules.|Solving equations.
+0141|Algorithm|A finite, well-defined procedure for computation.|Sorting numbers.
+0142|Algorithmic|Relating to algorithms or stepwise procedures.|Algorithmic optimization.
+0143|Aliasing|Distortion caused by insufficient sampling resolution.|Jagged digital lines.
+0144|Alpha|The first parameter, variable, or significance level.|Alpha coefficient.
+0145|Amplitude|Maximum displacement from equilibrium in a wave.|Wave height.
+0146|Angular|Relating to angles or rotation.|Angular velocity.
+0147|Asymptote|A line a curve approaches but never reaches.|y = 1/x approaches zero.
+0148|Automaton|An abstract self-operating computational system.|Finite state machine.
+0149|Automorphism|A structure-preserving mapping from an object to itself.|Group automorphism.
+0150|Basis|A set of vectors spanning a vector space.|Standard basis.
+0151|Bayesian|Relating to probability updated by evidence.|Bayesian inference.
+0152|Beta|The second parameter or coefficient.|Beta decay.
+0153|Bounded|Having finite limits.|Bounded function.
+0154|Calculus|The study of change and accumulation.|Derivatives and integrals.
+0155|Cardinality|The number of elements in a set.|Set size.
+0156|Chain|A sequence of related elements or events.|Markov chain.
+0157|Class|A collection defined by shared properties.|Equivalence class.
+0158|Closed|Containing all its limit points.|Closed interval.
+0159|Clustering|Grouping elements by similarity.|Data clustering.
+0160|Coefficient|A numerical factor multiplying a variable.|3x has coefficient 3.
+0161|Collection|An aggregation of objects.|Object collection.
+0162|Compact|Closed and bounded in topology.|Compact set.
+0163|Completeness|Lack of missing elements in a system.|Complete metric space.
+0164|Concave|Curving inward.|Concave lens.
+0165|Concentric|Sharing the same center.|Concentric circles.
+0166|Concurrency|Simultaneous execution of processes.|Concurrent threads.
+0167|Conditional|Dependent on a given condition.|Conditional probability.
+0168|Connected|All parts linked without separation.|Connected graph.
+0169|Continuum|An unbroken, continuous whole.|Real number line.
+0170|Contravariant|Transforming oppositely under coordinate change.|Contravariant vector.
+0171|Convex|Containing all line segments between points.|Convex set.
+0172|Convolution|An operation combining two functions.|Signal convolution.
+0173|Corollary|A result that follows directly from another.|Immediate consequence.
+0174|Countable|Able to be put in one-to-one correspondence with integers.|Rational numbers.
+0175|Covariance|Measure of joint variability.|Positive covariance.
+0176|Covariant|Transforming consistently under change.|Covariant tensor.
+0177|Critical|At a threshold of change or instability.|Critical point.
+0178|Curl|A vector operator measuring rotation.|Curl of a field.
+0179|Cusp|A pointed singularity on a curve.|Cusp catastrophe.
+0180|Decay|Gradual decrease over time.|Radioactive decay.
+0181|Decidable|Algorithmically solvable as true or false.|Decidable problem.
+0182|Determinant|A scalar describing matrix properties.|Matrix determinant.
+0183|Deterministic|Fully determined by initial conditions.|Deterministic system.
+0184|Diagonalize|Transforming a matrix into diagonal form.|Diagonalize a matrix.
+0185|Diffeomorphism|A smooth, invertible mapping.|Manifold mapping.
+0186|Differentiability|The property of having a derivative.|Differentiable function.
+0187|Dimension|Number of independent directions.|Three dimensions.
+0188|Dimensionality|The extent of dimensions in a space.|High dimensionality.
+0189|Discrete|Separated into distinct elements.|Discrete values.
+0190|Distribution|A function describing probability allocation.|Normal distribution.
+0191|Divergence|A measure of field expansion.|Vector divergence.
+0192|Domain|The set of valid inputs to a function.|Function domain.
+0193|Eigenvalue|A scalar associated with a linear transformation.|Matrix eigenvalue.
+0194|Eigenvector|A vector unchanged in direction by transformation.|Eigenvector of matrix.
+0195|Equivalence|Having the same value or structure.|Logical equivalence.
+0196|Ergodic|Time averages equal ensemble averages.|Ergodic process.
+0197|Estimator|A rule for inferring parameter values.|Unbiased estimator.
+0198|Exponential|Involving constant proportional growth.|Exponential growth.
+0199|Extension|Expansion of a structure or domain.|Field extension.
+0200|Fractal|A self-similar structure at all scales.|Mandelbrot set.
+0201|Fourier|Relating to frequency decomposition.|Fourier transform.
+0202|Function|A mapping from inputs to outputs.|f(x) = x².
+0203|Functional|A function of functions.|Action functional.
+0204|Fundamental|Forming a basic or essential part.|Fundamental theorem.
+0205|Gamma|A third parameter or function.|Gamma distribution.
+0206|Gaussian|Following a normal distribution.|Gaussian curve.
+0207|Geometric|Relating to shapes or spatial properties.|Geometric proof.
+0208|Gradient|Vector of partial derivatives.|Gradient descent.
+0209|Graph|A set of nodes connected by edges.|Network graph.
+0210|Halting|Termination of computation.|Halting problem.
+0211|Heap|A specialized tree-based data structure.|Binary heap.
+0212|Hermitian|Equal to its own conjugate transpose.|Hermitian matrix.
+0213|Hessian|Matrix of second-order partial derivatives.|Hessian matrix.
+0214|Homogeneous|Uniform in structure or degree.|Homogeneous equation.
+0215|Independence|Lack of dependence between variables.|Independent events.
+0216|Independent|Not influenced by another variable.|Independent variable.
+0217|Infinity|Unbounded quantity or concept.|Infinite set.
+0218|Integral|A measure of accumulated quantity.|Definite integral.
+0219|Intersection|Elements common to multiple sets.|Set intersection.
+0220|Interval|A continuous range of values.|Closed interval.
+0221|Iterate|To repeat a process.|Iterate a function.
+0222|Jacobian|Matrix of first-order partial derivatives.|Jacobian determinant.
+0223|Kernel|The set mapped to zero.|Kernel of transformation.
+0224|Laplace|Relating to a differential operator or transform.|Laplace transform.
+0225|Laplacian|The divergence of the gradient.|Laplacian operator.
+0226|Limit|Value approached by a sequence or function.|Limit as x→0.
+0227|Linear|Following linear relationships.|Linear function.
+0228|List|An ordered collection.|Linked list.
+0229|Logistic|Relating to growth with saturation.|Logistic curve.
+0230|Markov|Memoryless stochastic process.|Markov chain.
+0231|Matrix|A rectangular array of numbers.|2×2 matrix.
+0232|Mean|Arithmetic average.|Mean value.
+0233|Measure|A function assigning size or volume.|Lebesgue measure.
+0234|Metric|A distance function.|Metric space.
+0235|Mode|Most frequent value.|Statistical mode.
+0236|Modularity|Degree of separability into components.|System modularity.
+0237|Modulus|Absolute value or remainder.|Complex modulus.
+0238|Momentum|Quantity of motion.|Linear momentum.
+0239|Normed|Equipped with a norm.|Normed space.
+0240|Null|Having no value or effect.|Null set.
+0241|Nullity|Dimension of a matrix’s kernel.|Matrix nullity.
+0242|Omega|The last or ultimate element.|Omega limit.
+0243|Open|Not containing boundary points.|Open set.
+0244|Operator|A mapping acting on elements.|Linear operator.
+0245|Ordinal|Indicating position or order.|Ordinal numbers.
+0246|Orthogonal|Perpendicular or independent.|Orthogonal vectors.
+0247|Orthonormal|Orthogonal and unit-length.|Orthonormal basis.
+0248|Partial|Incomplete or relating to part.|Partial derivative.
+0249|Pivot|A key reference element.|Pivot element.
+0250|Poisson|A discrete probability distribution.|Poisson process.
+0251|Polynomial|An expression of summed powers.|Quadratic polynomial.
+0252|Posterior|Updated probability after evidence.|Posterior belief.
+0253|Prior|Initial probability before evidence.|Prior belief.
+0254|Probability|Measure of likelihood.|Event probability.
+0255|Quantifier|Logical operator expressing quantity.|Universal quantifier.
+0256|Quantum|Relating to discrete physical units.|Quantum state.
+0257|Qubit|A quantum unit of information.|Quantum bit.
+0258|Rank|Dimension of image of a matrix.|Matrix rank.
+0259|Recursion|Definition using self-reference.|Recursive function.
+0260|Recurrent|Occurring repeatedly.|Recurrent state.
+0261|Regression|Statistical relationship modeling.|Linear regression.
+0262|Resolution|Degree of detail or precision.|High resolution.
+0263|Saddle|A point of mixed curvature.|Saddle point.
+0264|Scalar|A quantity with magnitude only.|Scalar value.
+0265|Set|A collection of distinct elements.|Number set.
+0266|Singular|Non-invertible or exceptional.|Singular matrix.
+0267|Skew|Asymmetric or slanted.|Skew distribution.
+0268|Span|All linear combinations of vectors.|Vector span.
+0269|Square|Having equal sides or dimensions.|Square matrix.
+0270|Stack|A last-in-first-out data structure.|Call stack.
+0271|Stochastic|Involving randomness.|Stochastic process.
+0272|Subset|A set contained within another.|Proper subset.
+0273|Symmetric|Invariant under reflection or exchange.|Symmetric matrix.
+0274|Tau|A constant or time parameter.|Tau constant.
+0275|Topology|Study of spatial continuity.|Topological space.
+0276|Trace|Sum of diagonal matrix elements.|Matrix trace.
+0277|Transfinite|Beyond finite magnitude.|Transfinite numbers.
+0278|Transformation|A mapping changing structure or form.|Linear transformation.
+0279|Transverse|Intersecting non-parallelly.|Transverse intersection.
+0280|Tree|A connected acyclic graph.|Binary tree.
+0281|Truncate|To cut off excess parts.|Truncate decimals.
+0282|Tuple|An ordered collection of elements.|Ordered pair.
+0283|Union|All elements from combined sets.|Set union.
+0284|Unitary|Preserving inner product.|Unitary operator.
+0285|Universal|Applying to all cases.|Universal set.
+0286|Value|A specific magnitude or quantity.|Assigned value.
+0287|Variance|Measure of dispersion.|Statistical variance.
+0288|Vector|A quantity with magnitude and direction.|Force vector.
+0289|Vertex|A point where edges meet.|Graph vertex.
+0290|Zeroth|Relating to order zero.|Zeroth law.
+0291|Ephemeral|Lasting for a very short time.|Morning dew evaporates quickly.
+0292|Cosmopolitan|Familiar with and influenced by many cultures.|A cosmopolitan city.
+0293|Capricious|Given to sudden, unpredictable changes.|Her mood was capricious.
+0294|Intrepid|Fearless in the face of danger.|An intrepid explorer.
+0295|Viable|Capable of working successfully.|A viable solution.
+0296|Resolute|Firmly determined and unwavering.|He remained resolute.
+0297|Feeble|Lacking strength or effectiveness.|A feeble attempt.
+0298|Pertinent|Relevant to the matter at hand.|A pertinent question.
+0299|Inconsolable|Unable to be comforted.|She was inconsolable after the loss.
+0300|Sardonic|Grimly mocking or cynical.|A sardonic smile.
+0301|Contrived|Artificially created rather than natural.|A contrived excuse.
+0302|Esoteric|Understood by only a small, specialized group.|An esoteric doctrine.
+0303|Ardent|Intensely enthusiastic or passionate.|An ardent supporter.
+0304|Rife|Widespread or abundant.|The area was rife with rumors.
+0305|Corresponding|Matching or directly related.|Corresponding values.
+0306|Forlorn|Abandoned or hopeless.|A forlorn expression.
+0307|Erroneous|Incorrect due to error.|An erroneous assumption.
+0308|Stark|Severe, bare, or sharply clear.|A stark contrast.
+0309|Fatiguability|The tendency to become fatigued.|Muscle fatiguability increased.
+0310|Audacious|Bold and daring.|An audacious plan.
+0311|Misanthropic|Disliking humankind.|A misanthropic worldview.
+0312|Enthralling|Capturing complete attention.|An enthralling performance.
+0313|Pejorative|Expressing contempt or disapproval.|A pejorative term.
+0314|Remedial|Intended to correct a deficiency.|Remedial instruction.
+0315|Destitute|Extremely poor or deprived.|The destitute family.
+0316|Omniscient|Having complete knowledge.|An omniscient narrator.
+0317|Admonished|Reprimanded firmly.|He was admonished for lateness.
+0318|Duly|In a proper or expected manner.|The form was duly signed.
+0319|Rifer|One who refers or directs.|The referrer acted as a rifer.
+0320|Reefed|Rolled or folded to reduce exposure.|The sails were reefed.
+0321|Aberrant|Deviating from the norm.|Aberrant behavior.
+0322|Aberration|A departure from what is normal.|A statistical aberration.
+0323|Ablation|The removal of material or tissue.|Laser ablation.
+0324|Absolution|Formal release from guilt or blame.|Granted absolution.
+0325|Abstraction|Removal of specific details to focus on general ideas.|Mathematical abstraction.
+0326|Acceleration|The rate of change of velocity.|Constant acceleration.
+0327|Acoustics|The science of sound.|Room acoustics.
+0328|Activator|A substance that initiates a process.|An enzyme activator.
+0329|Adiabatic|Occurring without heat exchange.|Adiabatic expansion.
+0330|Adrenergic|Relating to adrenaline activity.|Adrenergic receptors.
+0331|Aerobe|An organism requiring oxygen.|Human cells are aerobes.
+0332|Agnosia|Inability to recognize sensory stimuli despite intact sensation.|Visual agnosia prevents recognizing faces.
+0333|Akinesia|Loss or impairment of voluntary movement.|Parkinson’s disease can cause akinesia.
+0334|Alacrity|Brisk and cheerful readiness.|She accepted the task with alacrity.
+0335|Aleph|The first letter of the Hebrew alphabet, often symbolizing infinity.|Cantor used aleph for infinite sets.
+0336|Alexithymia|Difficulty identifying or describing emotions.|Alexithymia limits emotional awareness.
+0337|Alternative|One of two or more available possibilities.|Choose an alternative route.
+0338|Altruism|Selfless concern for the well-being of others.|Donating anonymously shows altruism.
+0339|Amalgam|A mixture or combination of elements.|The theory is an amalgam of ideas.
+0340|Ambiguity|The presence of multiple possible meanings.|The sentence contained ambiguity.
+0341|Ambiguous|Open to more than one interpretation.|An ambiguous reply confused everyone.
+0342|Ambivalent|Having mixed or conflicting feelings.|She felt ambivalent about leaving.
+0343|Amnesia|Loss of memory.|The accident caused temporary amnesia.
+0344|Amperometry|Measurement of electric current in electrochemical systems.|Amperometry detects chemical concentrations.
+0345|Amphiboly|Ambiguity caused by sentence structure.|“I saw her duck” is amphiboly.
+0346|Amplification|Increase in strength, intensity, or magnitude.|Signal amplification improved clarity.
+0347|Amplifier|A device that increases signal strength.|The microphone uses an amplifier.
+0348|Anachronism|Something out of its proper historical time.|A smartphone in a medieval story.
+0349|Anaerobe|An organism that lives without oxygen.|Certain bacteria are anaerobes.
+0350|Anaerobic|Occurring without oxygen.|Anaerobic respiration produces less energy.
+0351|Aneuploidy|Abnormal number of chromosomes.|Down syndrome involves aneuploidy.
+0352|Angular|Relating to angles or rotation.|Angular momentum is conserved.
+0353|Anhedonia|Inability to experience pleasure.|Depression often includes anhedonia.
+0354|Anisotropic|Having direction-dependent properties.|Anisotropic materials vary by direction.
+0355|Anisotropy|Directional dependence of physical properties.|Crystal anisotropy affects light.
+0356|Anneal|To heat and cool to reduce defects.|Metal was annealed for strength.
+0357|Annealing|Controlled heating and cooling process.|Glass annealing prevents cracking.
+0358|Anodize|To form an oxide layer electrically.|Aluminum is anodized for durability.
+0359|Anodizing|The process of anodizing metal.|Anodizing increases corrosion resistance.
+0360|Anodyne|Relieving pain or discomfort; soothing.|An anodyne explanation eased tension.
+0361|Anomia|Difficulty recalling words.|Stroke patients may experience anomia.
+0362|Anomie|Breakdown of social norms.|Rapid change caused anomie.
+0363|Anonymity|The state of being unknown.|Online anonymity protects privacy.
+0364|Antiferromagnetic|Having opposing magnetic alignments.|Antiferromagnetic materials cancel magnetism.
+0365|Natalism|Belief promoting childbirth.|Natalism encourages population growth.
+0366|Antipathy|Strong dislike or aversion.|He felt antipathy toward cruelty.
+0367|Apathy|Lack of interest or emotion.|Voter apathy reduced turnout.
+0368|Aperture|An opening controlling light or flow.|Camera aperture affects exposure.
+0369|Aphasia|Impaired language ability.|A stroke caused aphasia.
+0370|Apophenia|Perceiving patterns where none exist.|Seeing faces in clouds is apophenia.
+0371|Apoptosis|Programmed cell death.|Apoptosis removes damaged cells.
+0372|Apraxia|Inability to perform learned movements.|Apraxia affects motor planning.
+0373|Arduous|Requiring great effort.|An arduous climb exhausted them.
+0374|Arrhythmia|Irregular heart rhythm.|The ECG showed arrhythmia.
+0375|Assiduous|Showing great care and perseverance.|An assiduous student excelled.
+0376|Astigmatism|Irregular curvature of the eye.|Astigmatism blurs vision.
+0377|Ataxia|Loss of coordination.|Cerebellar damage causes ataxia.
+0378|Attention|Focused mental engagement.|Attention improves learning.
+0379|Attribute|A defining quality or characteristic.|Honesty is an attribute.
+0380|Authentication|Verification of identity.|Passwords provide authentication.
+0381|Authoritarianism|Centralized power with limited freedoms.|Authoritarianism suppresses dissent.
+0382|Authorization|Granting permission or access.|Manager authorization was required.
+0383|Autocorrelation|Correlation of a signal with itself.|Autocorrelation reveals periodicity.
+0384|Autoencoder|A neural network for representation learning.|Autoencoders compress data.
+0385|Automorphism|Structure-preserving mapping onto itself.|Group automorphism preserves operations.
+0386|Autophagy|Cellular self-digestion for recycling.|Autophagy removes damaged components.
+0387|Autotroph|Organism producing its own food.|Plants are autotrophs.
+0388|Availability|Ease of access or recall.|Availability bias affects judgment.
+0389|Banal|Lacking originality; trite.|A banal cliché bored readers.
+0390|Bandwidth|Range of signal frequencies.|Higher bandwidth allows more data.
+0391|Baroque|Highly ornate or elaborate.|Baroque architecture is decorative.
+0392|Basis|A set that spans a space.|Vectors form a basis.
+0393|Beam|A directed stream of particles or waves.|A laser beam.
+0394|Becquerel|SI unit of radioactivity.|The sample measured one becquerel.
+0395|Betrothed|Formally engaged to marry.|They are betrothed.
+0396|Bias|A systematic tendency favoring certain outcomes or interpretations.|Confirmation bias affects judgment.
+0397|Big|Large in size, magnitude, or importance.|A big improvement.
+0398|Binding|The act of joining or fastening components together.|Protein binding affects function.
+0399|Bioluminescence|Light produced by living organisms.|Fireflies use bioluminescence.
+0400|Birefringence|Optical property causing light to split into two rays.|Calcite shows birefringence.
+0401|Boiling|Phase change from liquid to gas throughout a substance.|Water boiling at 100°C.
+0402|Bounded|Limited within fixed bounds.|A bounded region.
+0403|Bradycardia|Abnormally slow heart rate.|Athletes may show bradycardia.
+0404|Bradykinesia|Slowness of movement.|Bradykinesia is common in Parkinson’s.
+0405|Braze|To join metals using a filler metal.|He brazed the joint.
+0406|Brazing|Metal-joining process using molten filler.|Brazing forms strong joints.
+0407|Brittleness|Tendency to fracture without deformation.|Glass brittleness.
+0408|Buffer|A substance that resists pH change.|A buffer solution stabilizes acidity.
+0409|Calibrate|To adjust for accuracy.|Calibrate the instrument.
+0410|Capacitance|Ability to store electric charge.|Capacitance measured in farads.
+0411|Capacitor|A device storing electrical energy.|The circuit includes a capacitor.
+0412|Carburize|To add carbon to metal.|Steel is carburized.
+0413|Carburizing|Heat treatment adding carbon to steel.|Carburizing hardens surfaces.
+0414|Cast|To shape by pouring into a mold.|Cast iron parts.
+0415|Casting|The process of forming by molding.|Metal casting.
+0416|Catatonia|State of psychomotor immobility.|Severe depression may cause catatonia.
+0417|Catatonic|Relating to catatonia.|A catatonic patient.
+0418|Cathartic|Providing emotional release.|Crying felt cathartic.
+0419|Cavity|A hollow space within a body or object.|Dental cavity.
+0420|Centrifugation|Separation using rotational force.|Blood centrifugation.
+0421|Cerebral|Relating to the brain or intellect.|Cerebral cortex.
+0422|Chemiluminescence|Light produced by chemical reactions.|Glow sticks use chemiluminescence.
+0423|Chemotroph|Organism deriving energy from chemicals.|Bacteria are chemotrophs.
+0424|Chimeric|Composed of elements from different origins.|Chimeric proteins.
+0425|Chromatic|Relating to color.|Chromatic aberration.
+0426|Circuit|A closed electrical pathway.|Simple electric circuit.
+0427|Classification|Systematic arrangement into categories.|Biological classification.
+0428|Clientelism|Political exchange of favors for support.|Clientelism undermines democracy.
+0429|Clone|Genetic copy of an organism or cell.|Cloned cells.
+0430|Code|A system of symbols or rules.|Programming code.
+0431|Codominant|Both alleles expressed equally.|Codominant traits appear together.
+0432|Coercivity|Resistance to demagnetization.|High coercivity magnets.
+0433|Cognitive|Relating to mental processes.|Cognitive skills.
+0434|Coherent|Logically consistent or unified.|A coherent argument.
+0435|Coincidence|Occurrence without causal connection.|A strange coincidence.
+0436|Colligative|Depending on number of particles, not type.|Colligative properties affect boiling point.
+0437|Collimation|Alignment of waves or particles.|Beam collimation.
+0438|Coma|State of deep unconsciousness.|Patient in coma.
+0439|Commensal|Benefiting without harming the host.|Commensal bacteria.
+0440|Communion|Sharing of beliefs or experiences.|Religious communion.
+0441|Compact|Closely packed or efficient.|Compact design.
+0442|Compatibilism|View that free will and determinism coexist.|Compatibilism reconciles responsibility.
+0443|Compatriots|People from the same country.|Fellow compatriots.
+0444|Compiler|Program translating source code.|C++ compiler.
+0445|Complement|Something that completes or enhances.|Wine complements food.
+0446|Composite|Made of distinct parts.|Composite material.
+0447|Compression|Reduction in volume or size.|File compression.
+0448|Compulsion|Irresistible urge to act.|Obsessive compulsion.
+0449|Conceptualism|View emphasizing mental concepts.|Conceptualism in philosophy.
+0450|Concord|Agreement or harmony.|Social concord.
+0451|Concordat|Agreement between church and state.|Historic concordat.
+0452|Condensation|Phase change from gas to liquid.|Water vapor condensation.
+0453|Conditional|Dependent on a condition.|Conditional statement.
+0454|Conductance|The measure of how easily electric current flows through a material.|High conductance allows more current.
+0455|Confidence|Firm belief in one’s abilities or correctness.|She spoke with confidence.
+0456|Confirmation|Evidence that verifies or supports a claim.|The test provided confirmation.
+0457|Confocal|Having the same focal point.|Confocal microscopy improves resolution.
+0458|Conjugation|The joining or pairing of elements.|Verb conjugation changes tense.
+0459|Conjunction|A word that connects clauses or phrases.|And links ideas.
+0461|Conservation|Preservation of a quantity over time.|Energy conservation.
+0462|Consistency|Logical or structural uniformity.|Consistency strengthens arguments.
+0463|Consonance|Repetition of consonant sounds.|Blank and think.
+0464|Constraint|A limiting condition or restriction.|Budget constraint.
+0465|Constricted|Narrowed or tightened.|Constricted arteries.
+0466|Constructive|Serving to build or improve.|Constructive criticism.
+0467|Constructor|A method initializing an object.|Class constructor.
+0468|Contaminated|Made impure by foreign substances.|Contaminated water.
+0469|Contamination|The act of introducing impurities.|Chemical contamination.
+0470|Continuum|A continuous, unbroken range.|Color spectrum continuum.
+0471|Contradiction|A statement opposing another.|Logical contradiction.
+0472|Contraposition|Logical inversion with negation.|If not B, then not A.
+0473|Contravariant|Transforming oppositely to coordinates.|Contravariant tensor.
+0474|Conundrum|A difficult or puzzling problem.|A moral conundrum.
+0475|Convex|Curving outward.|Convex lens.
+0476|Conviction|Strongly held belief.|Moral conviction.
+0477|Convolution|An operation blending two functions.|Signal convolution.
+0478|Correlation|Statistical relationship between variables.|Positive correlation.
+0479|Corrosion|Gradual material degradation by reaction.|Metal corrosion.
+0480|Coulometry|Measurement based on electrical charge.|Coulometry determines concentration.
+0481|Countable|Able to be enumerated.|Countable set.
+0482|Countervail|To offset or counterbalance.|Costs countervail benefits.
+0483|Creep|Slow permanent deformation under stress.|Material creep.
+0484|Criticality|State at a threshold of change.|Criticality in reactors.
+0485|Cross-correlation|Correlation between two signals.|Cross-correlation detects delay.
+0486|Cryophile|An organism thriving in cold.|Polar cryophiles.
+0487|Crystallization|Formation of ordered crystal structure.|Salt crystallization.
+0488|Crystallography|Study of crystal structures.|X-ray crystallography.
+0489|Cubism|Art movement using geometric forms.|Cubist painting.
+0490|Cultivate|To develop or foster growth.|Cultivate skills.
+0491|Cumulative|Increasing by successive addition.|Cumulative effect.
+0492|Cynicism|Distrust of motives.|Political cynicism.
+0493|Cytokinesis|Division of a cell’s cytoplasm.|Cytokinesis follows mitosis.
+0494|Dadaism|An avant-garde anti-art movement.|Dadaist art.
+0495|Deadlock|State where progress halts due to conflict.|Thread deadlock.
+0496|Deception|Act of misleading.|Intentional deception.
+0497|Decibel|Logarithmic unit of sound intensity.|Measured in decibels.
+0498|Decidable|Solvable by algorithm.|Decidable proposition.
+0499|Declarative|Expressing a statement or assertion.|Declarative sentence.
+0500|Decoherence|Loss of quantum phase relations.|Quantum decoherence.
+0501|Decomposition|Breaking into simpler parts.|Signal decomposition.
+0502|Deconstruction|Critical analysis exposing assumptions.|Literary deconstruction.
+0503|Deletion|Removal of data or elements.|File deletion.
+0504|Delirium|An acute, fluctuating disturbance of consciousness and cognition.|Postoperative delirium caused confusion.
+0505|Dementia|Chronic progressive decline in cognitive function.|Alzheimer’s disease causes dementia.
+0506|Denaturation|Structural alteration of proteins or nucleic acids.|Heat causes protein denaturation.
+0507|Density|Mass per unit volume.|Water density is 1 g/cm³.
+0508|Deontology|Ethical theory based on duty and rules.|Kantian ethics is deontological.
+0509|Depersonalization|Feeling detached from oneself.|Stress triggered depersonalization.
+0510|Depletion|Reduction of resources or substances.|Nutrient depletion weakened soil.
+0511|Derealization|Perception that the external world is unreal.|Derealization followed panic.
+0512|Dereference|To access the value pointed to by a reference.|Dereference a pointer.
+0513|Derivative|A measure of rate of change.|Velocity is a derivative of position.
+0514|Destructive|Causing damage or loss.|Destructive interference cancels waves.
+0515|Destructor|A method that cleans up resources.|The destructor frees memory.
+0516|Deterministic|Fully determined by initial conditions.|Deterministic algorithms give same output.
+0517|Detritivore|Organism feeding on dead organic matter.|Earthworms are detritivores.
+0518|Diamagnetism|Weak repulsion from magnetic fields.|Copper is diamagnetic.
+0519|Dichotomy|Division into two opposing parts.|Mind–body dichotomy.
+0520|Dichroism|Optical property of color variation by direction.|Crystal dichroism.
+0521|Dielectric|An insulating material affecting electric fields.|Dielectric constant.
+0522|Diffraction|Wave spreading around obstacles.|Light diffraction through slits.
+0523|Diffusion|Movement from high to low concentration.|Gas diffusion equalizes pressure.
+0524|Dilatant|Becoming more viscous under stress.|Cornstarch suspension is dilatant.
+0525|Diode|A component allowing one-way current.|Rectifier diode.
+0526|Diopter|Unit of optical power.|A 2-diopter lens.
+0527|Discrete|Consisting of separate elements.|Discrete values.
+0528|Disjunction|Logical OR operation.|A or B.
+0529|Dispersion|Separation by differing velocities.|Prism dispersion.
+0530|Disseminate|To spread widely.|Disseminate information.
+0531|Dissemination|The act of spreading broadly.|Knowledge dissemination.
+0532|Dissociation|Separation of components or mental processes.|Trauma caused dissociation.
+0533|Dissonance|Lack of harmony or agreement.|Cognitive dissonance.
+0534|Distillation|Separation by boiling and condensation.|Alcohol distillation.
+0535|Distortion|Alteration from original form.|Signal distortion.
+0536|Divergence|Measure of outward flow.|Field divergence.
+0537|Dominant|Expressed or prevailing over others.|Dominant allele.
+0538|Dose|Amount of substance administered.|Drug dose.
+0539|Dosimetry|Measurement of absorbed radiation.|Radiation dosimetry.
+0540|Draconian|Excessively harsh or severe.|Draconian laws.
+0541|Ductility|Ability to deform without breaking.|Copper ductility.
+0542|Duplication|Exact copying.|Data duplication.
+0543|Dynamic|Characterized by change or motion.|Dynamic system.
+0544|Dyskinesia|Impaired voluntary movement.|Drug-induced dyskinesia.
+0545|Dysphasia|Language impairment.|Stroke caused dysphasia.
+0546|Dysphoria|A state of persistent unease or dissatisfaction.|He felt dysphoria after the setback.
+0547|Dysthymia|A chronic, low-grade depressive disorder.|Dysthymia causes long-term low mood.
+0548|Echo|A reflected repetition of sound or signal.|The shout produced an echo.
+0549|Efficacy|The ability to produce a desired effect.|The drug showed high efficacy.
+0550|Efficiency|Achieving maximum output with minimal waste.|Efficient engines save fuel.
+0551|Egregious|Outstandingly bad or shocking.|An egregious error.
+0552|Elastic|Able to return to original shape after deformation.|Elastic rubber bands stretch easily.
+0553|Elasticity|The property of returning to original form after stress.|Material elasticity matters in engineering.
+0554|Electrode|A conductor through which current enters or leaves.|Electrodes record brain activity.
+0555|Electrolyte|A substance conducting electricity in solution.|Sodium ions act as electrolytes.
+0556|Electron|A negatively charged subatomic particle.|Electrons orbit atomic nuclei.
+0557|Electrophoresis|Movement of charged particles in an electric field.|Gel electrophoresis separates DNA.
+0558|Electroplating|Coating metal using electric current.|Electroplating adds corrosion resistance.
+0559|Element|A pure substance of one atomic type.|Oxygen is an element.
+0560|Elixir|A substance believed to have magical or medicinal power.|An herbal elixir.
+0561|Eloquent|Fluent and persuasive in speech or writing.|An eloquent speaker.
+0562|Embody|To give concrete form to an idea.|She embodied resilience.
+0563|Emission|The act of releasing energy or particles.|Carbon emission increases warming.
+0564|Empathy|The ability to understand others’ feelings.|Empathy builds trust.
+0565|Empty|Containing nothing.|An empty container.
+0566|Encapsulation|Enclosing data with controlled access.|Object-oriented encapsulation.
+0567|Encryption|Encoding information to prevent unauthorized access.|Encryption secures messages.
+0568|Endemic|Native to a specific region.|Endemic species evolved locally.
+0569|Endocytosis|Cellular intake of material via membrane.|Cells use endocytosis to absorb nutrients.
+0570|Endothermic|Absorbing heat from surroundings.|Endothermic reactions cool systems.
+0571|Endurance|Capacity to withstand prolonged stress.|Athletes train endurance.
+0572|Energy|Capacity to do work.|Chemical energy powers cells.
+0573|Enmity|Deep-seated hostility.|Long-standing enmity divided them.
+0574|Ennui|A feeling of weariness or boredom.|Routine bred ennui.
+0575|Enrichment|The process of increasing quality or value.|Soil enrichment improves crops.
+0576|Entanglement|Quantum correlation between particles.|Quantum entanglement defies locality.
+0577|Enthalpy|Total heat content of a system.|Reaction enthalpy changed.
+0578|Entropy|A measure of disorder or uncertainty.|Entropy increases over time.
+0579|Enzyme|A biological catalyst speeding reactions.|Enzymes aid digestion.
+0580|Epigenome|Chemical modifications regulating gene expression.|The epigenome affects development.
+0581|Epiphenomenon|A secondary effect not causally influential.|Consciousness as epiphenomenon.
+0582|Epistasis|Interaction where one gene affects another’s expression.|Epistasis alters traits.
+0583|Equilibrium|A state of balance with no net change.|Chemical equilibrium stabilized.
+0584|Eternal|Lasting forever.|Eternal truths.
+0585|Euphoria|An intense feeling of happiness.|Victory brought euphoria.
+0586|Innate|Present from birth; not learned.|Innate reflexes protect infants.
+0587|Insertion|The act of placing something into another.|Gene insertion altered expression.
+0588|Instinctively|By natural impulse without conscious thought.|She instinctively ducked.
+0589|Insulation|Material or process reducing energy transfer.|Thermal insulation retains heat.
+0590|Integral|Essential or forming a whole.|Trust is integral to cooperation.
+0591|Integrity|Adherence to moral or structural wholeness.|He acted with integrity.
+0592|Intellect|The faculty of reasoning and understanding.|Her intellect impressed peers.
+0593|Interface|A boundary enabling interaction between systems.|User interface design matters.
+0594|Interference|Interaction causing disruption or alteration.|Signal interference caused noise.
+0595|Internal|Situated within or relating to inner structure.|Internal organs function together.
+0596|Interpreter|A program executing code line by line.|Python uses an interpreter.
+0597|Intrepid|Fearless and bold.|An intrepid explorer ventured onward.
+0598|Intuiting|Understanding without conscious reasoning.|She was intuiting danger.
+0599|Intuition|Immediate understanding without analysis.|He trusted his intuition.
+0600|Inundated|Overwhelmed or flooded.|The inbox was inundated.
+0601|Invasive|Tending to spread aggressively.|Invasive species disrupt ecosystems.
+0602|Inversion|Reversal of order or position.|Sentence inversion emphasized tone.
+0603|Irrevocable|Impossible to reverse.|The decision was irrevocable.
+0604|Ischemia|Insufficient blood supply to tissue.|Cardiac ischemia causes pain.
+0605|Isobaric|Occurring at constant pressure.|Isobaric process.
+0606|Isochoric|Occurring at constant volume.|Isochoric heating increases pressure.
+0607|Isothermal|Occurring at constant temperature.|Isothermal expansion.
+0608|Isotropic|Having uniform properties in all directions.|Isotropic materials behave evenly.
+0609|Jacobian|Matrix of partial derivatives for transformations.|Jacobian determinant measures scaling.
+0610|Kairos|The opportune or right moment.|He spoke at the perfect kairos.
+0611|Karyotype|The number and appearance of chromosomes.|Human karyotype has 46 chromosomes.
+0612|Keystone|A central supporting element.|A keystone species stabilizes ecosystems.
+0613|Kinetics|The study of motion or reaction rates.|Chemical kinetics predicts speed.
+0614|Knockdown|Temporary suppression or inactivation.|Gene knockdown reduced expression.
+0615|Knockout|Complete removal or inactivation.|Knockout mice lack the gene.
+0616|LSTM|A neural network handling long-term dependencies.|LSTM models sequences.
+0617|Laconic|Using very few words.|A laconic reply.
+0618|Laminate|Material made of bonded layers.|Laminate flooring resists wear.
+0619|Laser|Device emitting coherent light.|Laser surgery is precise.
+0620|Latency|Delay before response or effect.|Network latency slowed transfer.
+0621|Lens|A transparent object that focuses light.|Camera lens sharpens images.
+0622|Leverage|Strategic advantage or applied force.|Negotiation leverage mattered.
+0623|Ligase|An enzyme joining DNA fragments.|DNA ligase repairs strands.
+0624|Likelihood|Probability of an outcome.|High likelihood of rain.
+0625|Linkage|Connection or association between elements.|Genetic linkage affects inheritance.
+0626|Lithe|Flexible and graceful.|A lithe dancer moved fluidly.
+0627|Lithotroph|Organism deriving energy from inorganic compounds.|Lithotrophs thrive underground.
+0628|Local|Restricted to a particular area or context.|Local effects remained contained.
+0629|Logic|The systematic study of valid reasoning and inference.|Formal logic evaluates arguments.
+0630|Longitudinal|Measured or occurring along a length or over time.|Longitudinal studies track change.
+0631|Lucid|Clear in thought or expression.|A lucid explanation clarified confusion.
+0632|Luminous|Emitting or reflecting light.|Luminous stars shine brightly.
+0633|Macabre|Disturbingly associated with death.|A macabre tale.
+0634|Machine|A device that performs work using energy.|An engine is a machine.
+0635|Machining|Shaping material using tools or machines.|CNC machining produces precision parts.
+0636|Macrocosm|A large-scale system reflecting smaller ones.|Society as a macrocosm.
+0637|Magnetism|Physical phenomenon of attraction or repulsion.|Earth’s magnetism guides compasses.
+0638|Magnification|Increase in apparent size.|Microscope magnification reveals detail.
+0639|Mania|Abnormally elevated mood or activity.|Mania reduces sleep.
+0640|Mass|A measure of matter quantity.|Mass differs from weight.
+0641|Matrix|An array or structured framework.|A data matrix.
+0642|Measure|A method of quantifying magnitude.|Length measure.
+0643|Meiosis|Cell division producing gametes.|Meiosis halves chromosomes.
+0644|Melancholy|Persistent sadness or pensiveness.|Autumn evokes melancholy.
+0645|Melting|Phase change from solid to liquid.|Ice melting.
+0646|Memory|Capacity to store and recall information.|Long-term memory persists.
+0647|Meson|A subatomic particle mediating forces.|Pions are mesons.
+0648|Mesophile|An organism thriving in moderate temperatures.|Human bacteria are mesophiles.
+0649|Metabolome|The complete set of metabolic products.|The metabolome reflects physiology.
+0650|Metanoia|A profound change of mind or outlook.|The experience led to metanoia.
+0651|Method|A systematic procedure.|Scientific method.
+0652|Metric|A standard of measurement.|Distance metric.
+0653|Microcosm|A small system representing a larger one.|A classroom as microcosm.
+0654|Microscopy|Use of microscopes to view small objects.|Electron microscopy reveals structure.
+0655|Mindful|Attentive and aware.|Mindful breathing reduces stress.
+0656|Minimalism|Emphasis on simplicity and essentials.|Minimalist design removes excess.
+0657|Mirror|A surface reflecting images.|A plane mirror.
+0658|Mitigation|Reduction of severity or harm.|Risk mitigation strategies.
+0659|Mitosis|Cell division producing identical cells.|Mitosis enables growth.
+0660|Mnemonics|Techniques aiding memory.|Acronyms are mnemonics.
+0661|Modality|A mode or manner of expression.|Sensory modality.
+0662|Moderator|One who regulates discussion or process.|The moderator guided debate.
+0663|Momentum|Product of mass and velocity.|Conserved momentum.
+0664|Monochromatic|Consisting of a single wavelength or color.|Monochromatic light.
+0665|Multilayer|Composed of multiple layers.|A multilayer cake with frosting.
+0666|Mutation|Change in genetic material.|Gene mutation causes diseases.
+0667|Mutualism|Symbiotic relationship benefiting both organisms.|Bees and flowers in pollination.
+0668|Mysticism|Belief in direct spiritual apprehension of truths.|Sufi mysticism seeks union with the divine.
+0669|Nascent|Just coming into existence; emerging.|Nascent technology in quantum computing.
+0670|Naturalism|Artistic or literary style representing life realistically.|Naturalism in Zola's novels.
+0671|Necrosis|Death of cells or tissues.|Necrosis from frostbite.
+0672|Necrotic|Relating to or causing necrosis.|Necrotic tissue must be removed.
+0673|Negation|Denial or contradiction.|Logical negation with "not".
+0674|Neoclassical|Revival of classical styles in art or architecture.|Neoclassical buildings like the White House.
+0675|Nescient|Lacking knowledge; ignorant.|Nescient about advanced physics.
+0676|Net|Mesh fabric or tool for catching; remaining after deductions.|Fishing net; net profit.
+0677|Network|Interconnected system.|Computer network for data sharing.
+0678|Neural|Relating to nerves or the nervous system.|Neural pathways in the brain.
+0679|Neuroplasticity|Brain's ability to reorganize itself.|Neuroplasticity aids recovery from stroke.
+0680|Neutrino|Subatomic particle with no charge and little mass.|Neutrinos from the sun pass through Earth.
+0681|Newtonian|Relating to Isaac Newton's laws.|Newtonian mechanics describes motion.
+0682|Niche|Specialized market or ecological role.|Niche market for organic foods.
+0683|Nihilistic|Rejecting moral or religious principles; believing life is meaningless.|Nihilistic philosophy in Nietzsche's works.
+0684|Nitriding|Process of introducing nitrogen into metal surfaces.|Nitriding steel for hardness.
+0685|Nocebo|Negative expectation causing harm.|Nocebo effect from fearing side effects.
+0686|Node|Point of intersection or connection.|Node in a graph or lymph node.
+0687|Noise|Unwanted sound or random fluctuation.|Background noise in recordings.
+0688|Non|Prefix meaning not.|Nonfiction books.
+0689|Non-Newtonian|Fluid whose viscosity changes under stress.|Non-Newtonian fluid like cornstarch mixture.
+0690|Noncorporeal|Without a physical body.|Noncorporeal beings like ghosts.
+0691|Nondeterministic|Not predictable; involving randomness.|Nondeterministic algorithms in computing.
+0692|Normed|Equipped with a norm (mathematical measure).|Normed vector space in linear algebra.
+0693|Nostalgia|Sentimental longing for the past.|Nostalgia for childhood toys.
+0694|Nostrum|Quack remedy or scheme.|Patent nostrum for curing ailments.
+0695|Nuanced|Characterized by subtle shades of meaning.|Nuanced argument in debate.
+0696|Nucleon|Proton or neutron in an atomic nucleus.|Nucleons bound by strong force.
+0697|Null|Having no value; zero.|Null hypothesis in statistics.
+0698|Luminescence|Light emission not caused by heat.|Bioluminescence in jellyfish.
+0699|Nyquist|Relating to the minimum sampling rate to avoid aliasing.|Nyquist frequency limits signal sampling.
+0700|Obfuscate|To deliberately make unclear or confusing.|The code was obfuscated.
+0701|Objective|Independent of personal feelings or bias.|An objective assessment.
+0702|Obligate|Restricted to a particular condition or mode.|Obligate anaerobes require no oxygen.
+0703|Oblique|Neither parallel nor perpendicular; indirect.|An oblique angle.
+0704|Obsequious|Excessively eager to please or flatter.|An obsequious assistant.
+0705|Oddity|Something unusual or strange.|A curious oddity.
+0706|Oligarchy|Rule by a small elite group.|Corporate oligarchy dominates markets.
+0707|Onomatopoeia|Words that imitate sounds.|Buzz and hiss.
+0708|Optic|Relating to vision or the eye.|Optic nerve.
+0709|Optics|The study of light and vision.|Geometric optics.
+0710|Optimization|The process of making something as effective as possible.|Performance optimization.
+0711|Optimize|To adjust for maximum efficiency or benefit.|Optimize the algorithm.
+0712|Opulent|Richly luxurious or lavish.|Opulent decor.
+0713|Oracle|A source of authoritative guidance or prediction.|The database acts as an oracle.
+0714|Ordinal|Relating to order or position.|Ordinal numbers.
+0715|Organotroph|Organism using organic compounds for energy.|Animals are organotrophs.
+0716|Orthotropic|Having different properties along three perpendicular axes.|Orthotropic materials in engineering.
+0717|Oscillation|Regular variation about a central value.|Pendulum oscillation.
+0718|Oscillator|A system producing periodic motion or signal.|Electronic oscillator.
+0719|Osmosis|Diffusion of solvent through a membrane.|Water moves by osmosis.
+0720|Ossify|To turn into bone or become rigid.|Cartilage ossifies.
+0721|Overexpression|Excessive production of a gene product.|Protein overexpression altered cells.
+0722|Overload|Excess demand beyond capacity.|System overload caused failure.
+0723|Override|To bypass or supersede a control.|Manual override engaged.
+0724|Overtone|A frequency above the fundamental.|Musical overtones enrich sound.
+0725|Overture|An introductory piece or gesture.|The opera’s overture.
+0726|Ownership|The state of possessing something.|Property ownership.
+0727|Oxidation|Loss of electrons in a reaction.|Iron oxidation forms rust.
+0728|Panacea|A supposed cure for all problems.|No single panacea exists.
+0729|Parabolic|Relating to a parabola or trajectory.|Parabolic motion of a projectile.
+0730|Parallel|Equidistant and non-intersecting.|Parallel lines.
+0731|Parallelism|Use or arrangement of parallel structures.|Parallelism improves clarity.
+0732|Parameter|A variable defining system behavior.|Model parameters.
+0733|Parapatry|Adjacent but non-overlapping species ranges.|Parapatric populations.
+0734|Parasite|An organism living at another’s expense.|Tapeworm parasite.
+0735|Pareidolia|Perceiving meaningful patterns in randomness.|Faces in clouds.
+0736|Partial|Incomplete or relating to part.|Partial solution.
+0737|Pedagogical|Relating to teaching methods.|Pedagogical strategies.
+0738|Penetrance|Proportion expressing a genetic trait.|Incomplete penetrance observed.
+0739|Perceptron|Simple neural network model for binary classification.|Perceptron algorithm in machine learning.
+0740|Perennial|Lasting for many years; recurring.|Perennial plants bloom yearly.
+0741|Performance|Execution of a task; show or concert.|High performance in sports.
+0742|Perfunctory|Done with minimal effort; superficial.|Perfunctory greeting without warmth.
+0743|Period|Length of time; punctuation mark.|The Jurassic period.
+0744|Peristalsis|Wave-like muscle contractions in digestion.|Peristalsis moves food through intestines.
+0745|Permeability|Ability to allow fluids or gases to pass through.|Soil permeability affects drainage.
+0746|Pernicious|Harmful or destructive in a subtle way.|Pernicious influence of misinformation.
+0747|Phagocytosis|Process where cells engulf particles.|White blood cells perform phagocytosis.
+0748|Phase|Distinct stage in a process; state of matter.|Moon's waxing phase.
+0749|Phenotype|Observable characteristics from genes and environment.|Eye color as a phenotype.
+0750|Pheon|Heraldic charge resembling a broad arrowhead.|Pheon on a coat of arms.
+0751|Phot|Unit of illuminance equal to one lumen per square centimeter.|Measuring light in phots.
+0752|Phin|Variant or informal term, possibly for fin or a name; not standard.|(Assuming context) Dolphin phin slicing water.
+0753|Phis|Plural of phi, Greek letter φ; or informal for physics.|Phis in mathematics equations.
+0754|Phosphorescence|Glow after exposure to light, without heat.|Phosphorescence in glow-in-the-dark toys.
+0755|Photon|Particle of light; quantum of electromagnetic radiation.|Photon travels at light speed.
+0756|Phototroph|Organism using light for energy.|Plants are phototrophs via photosynthesis.
+0757|Physical|Relating to the body or material world.|Physical exercise for health.
+0758|Picturesque|Visually attractive, like a picture.|Picturesque landscape in the countryside.
+0759|Piezoelectric|Generating electricity from mechanical stress.|Piezoelectric crystals in lighters.
+0760|Pinocytosis|Cell drinking; uptake of fluid.|Cells use pinocytosis for nutrients.
+0761|Pioneer|Person who is first to explore or settle.|Pioneer in space exploration.
+0762|Pitch|Degree of highness or lowness in sound; throw.|Perfect pitch in music.
+0763|Pivotal|Of crucial importance.|Pivotal moment in history.
+0764|Placebo|Inert substance given as medicine.|Placebo effect in clinical trials.
+0765|Plasmid|Small circular DNA in bacteria.|Plasmid used in genetic engineering.
+0766|Plastic|Synthetic material; adaptable.|Plastic bottles are recyclable.
+0767|Plasticity|Ability to be shaped or molded.|Brain plasticity in learning.
+0768|Pleiotropy|One gene influencing multiple traits.|Pleiotropy in genetic disorders.
+0770|Polarizability|Ease of distorting electron cloud.|High polarizability in large atoms.
+0771|Polarization|Division into extremes; in physics, wave orientation.|Political polarization in society.
+0772|Polemical|Controversial argument attacking opinions.|Polemical essay on reform.
+0773|Polymerase|Enzyme catalyzing polymer formation.|DNA polymerase in replication.
+0774|Polymorphism|Existing in multiple forms; in biology or computing.|Polymorphism in object-oriented programming.
+0775|Polyploidy|Having more than two sets of chromosomes.|Polyploidy in wheat crops.
+0776|Polytropic|Process following pV^n = constant in thermodynamics.|Polytropic expansion in engines.
+0777|Population|Group of individuals in an area.|World population growth.
+0778|Positron|Antiparticle of the electron.|Positron emission in PET scans.
+0779|Postmodernism|Cultural movement skeptical of grand narratives.|Postmodernism in literature.
+0780|Postulate|Assumed truth as basis for reasoning.|Euclid's postulates in geometry.
+0781|Potentiometry|Measurement of potential difference.|Potentiometry in electrochemistry.
+0782|Power|Ability to do work; authority.|Electrical power in watts.
+0783|Precipitation|Rain, snow, or chemical deposit.|Annual precipitation in rainfall.
+0784|Predation|Act of preying on others.|Lion predation on zebras.
+0785|Predetermination|Decided in advance.|Genetic predetermination of traits.
+0786|Prerogative|Exclusive right or privilege.|Royal prerogative to pardon.
+0787|Pretext|False reason to conceal true motive.|Pretext for invasion.
+0788|Primer|Introductory book; substance for preparing surface.|DNA primer in PCR.
+0789|Primitive|Basic or undeveloped; in computing, data type.|Primitive tools in ancient times.
+0790|Principal|Main or chief; head of school.|Principal amount in loans.
+0791|Prism|Transparent object refracting light.|Glass prism splits white light.
+0792|Probability|Likelihood of occurrence.|Probability of winning lottery.
+0793|Problem|Difficult situation requiring solution.|Math problem to solve.
+0794|Process|Series of actions to achieve result.|Manufacturing process for cars.
+0795|Proclivity|Natural inclination or tendency.|Proclivity for adventure.
+0796|Profane|Irreverent or vulgar.|Profane language in conversation.
+0797|Projection|Mapping or representation of one set onto another.|Map projection distorts distance.
+0798|Propagation|The spread or transmission of something.|Wave propagation through air.
+0799|Proposition|A statement that can be true or false.|Logical proposition.
+0800|Prosopagnosia|Inability to recognize faces.|Prosopagnosia impairs recognition.
+0801|Proteome|The complete set of proteins expressed.|The human proteome varies by cell.
+0802|Protocol|A formal set of rules or procedures.|Network communication protocol.
+0803|Proton|A positively charged subatomic particle.|Protons reside in nuclei.
+0804|Protracted|Extended in time or duration.|A protracted conflict.
+0805|Provocative|Intended to provoke reaction or thought.|Provocative remarks stirred debate.
+0806|Psychrophile|An organism thriving in cold environments.|Antarctic bacteria are psychrophiles.
+0807|Pumping|The act of moving fluid or energy.|Ion pumping across membranes.
+0808|Purchase|The act of acquiring or gaining hold.|Mechanical purchase increases leverage.
+0809|Pyroelectric|Generating electric charge from heat change.|Pyroelectric sensors detect motion.
+0810|Quenching|Rapid cooling or suppression of activity.|Steel quenching hardens metal.
+0811|Queue|An ordered waiting sequence.|Task queue processes jobs.
+0812|Quintessence|The purest or most essential form.|Wisdom as quintessence.
+0813|Quintessential|Representing the perfect example.|Quintessential elegance.
+0814|Race|Competition between processes or entities.|Race condition in software.
+0815|Radioactive|Emitting radiation through decay.|Radioactive isotopes.
+0816|Radioactivity|The process of radioactive decay.|Measured radioactivity.
+0817|Radiography|Imaging using radiation.|X-ray radiography.
+0818|Random|Lacking pattern or predictability.|Random sampling.
+0819|Rarefaction|Reduction in density or pressure.|Sound wave rarefaction.
+0820|Ray|A directed line or beam of energy.|Light ray.
+0821|Reactance|Opposition to AC due to capacitance or inductance.|Circuit reactance varies with frequency.
+0822|Reactor|A system enabling controlled reactions.|Nuclear reactor.
+0823|Realism|Representation of things as they are.|Realism in art.
+0824|Recessive|Expressed only when not masked by dominant allele.|Recessive trait.
+0825|Recombinant|Formed by genetic recombination.|Recombinant DNA.
+0826|Recombination|Rearrangement of genetic material.|Meiotic recombination.
+0827|Redoubt|A strong defensive position.|Mountain redoubt.
+0828|Redox|Combined reduction and oxidation reactions.|Redox chemistry.
+0829|Reduction|Gain of electrons in chemistry.|Reduction reaction.
+0830|Redundancy|Duplication for reliability.|System redundancy prevents failure.
+0831|Reference|A source or point of comparison.|Memory reference.
+0832|Reflection|Bouncing back from a surface.|Light reflection.
+0833|Refraction|Bending of waves through media.|Light refraction.
+0834|Refrigeration|Removal of heat to lower temperature.|Food refrigeration.
+0835|Relativity|Theory relating space, time, and motion.|Einstein’s relativity.
+0836|Rem|Unit of radiation dose.|Measured in rem.
+0837|Remanence|Residual magnetization after field removal.|Magnetic remanence.
+0838|Remediation|Correction or cleanup of damage.|Environmental remediation.
+0839|Repository|A centralized storage location.|Code repository.
+0840|Resistance|Opposition to flow or change.|Electrical resistance.
+0841|Resistor|A component providing resistance.|Carbon resistor.
+0842|Resolvent|An operator used to analyze spectra.|Resolvent operator.
+0843|Resonator|A system that amplifies oscillations.|Acoustic resonator.
+0844|Restriction|Limitation or constraint.|Dietary restriction.
+0845|Revelation|Sudden disclosure or insight.|A startling revelation.
+0846|Revenge|Retaliatory harm for perceived wrong.|He sought revenge.
+0847|Reverberation|Prolonged echo or reflection of sound.|The reverberation in the cathedral enhanced the choir's voices.
+0848|Reverie|State of being lost in thought; daydream.|Lost in reverie about summer vacations.
+0849|Rheology|Study of flow and deformation of materials.|Rheology of polymers in manufacturing.
+0850|Rhetoric|Art of effective speaking or writing.|Political rhetoric sways public opinion.
+0851|Robustness|Strength and resilience; ability to withstand stress.|Robustness of the software against errors.
+0852|Rococo|Ornate late Baroque style in art and architecture.|Rococo decorations in Versailles.
+0853|Romanticism|Artistic movement emphasizing emotion and nature.|Romanticism in Wordsworth's poetry.
+0854|Runtime|Duration of program execution; period of operation.|Program runtime measured in seconds.
+0855|Sacrosanct|Regarded as too holy to be interfered with.|Sacrosanct traditions in the family.
+0856|Saddle|Seat for riding; low point between peaks.|Horse saddle for comfort.
+0857|Sample|Representative portion; specimen.|Tissue sample for analysis.
+0858|Sampling|Selecting a subset for analysis; in signal processing.|Random sampling in surveys.
+0859|Saprophyte|Organism feeding on dead organic matter.|Fungi as saprophytes in forests.
+0860|Sardonically|In a mocking or cynical manner.|He smiled sardonically at the failure.
+0861|Satisfaction|Fulfillment of needs or desires.|Job satisfaction improves productivity.
+0862|Saturation|State of being full or soaked; in color or market.|Market saturation limits growth.
+0863|Saudade|Melancholic longing for something absent.|Saudade for homeland in immigrants.
+0864|Scalability|Ability to handle growth or increased demand.|Scalability of cloud computing.
+0865|Scanning|Examining closely; in imaging or reading.|Scanning documents for digitization.
+0866|Schadenfreude|Pleasure from others' misfortune.|Schadenfreude at a rival's defeat.
+0867|Second|Unit of time; next after first.|Wait a second before deciding.
+0868|Security|State of being protected; safeguards.|Network security against hacks.
+0869|Self-adjoint|Operator equal to its adjoint in mathematics.|Self-adjoint matrices in quantum mechanics.
+0870|Sequencing|Determining order, especially of DNA.|Genome sequencing for research.
+0871|Series|Sequence of related things; in math or TV.|Arithmetic series in calculations.
+0872|Shear|Force causing deformation; cut with scissors.|Shear stress in materials.
+0873|Sievert|Unit of radiation dose equivalent.|Exposure measured in sieverts.
+0874|Signal|Indication or transmission; in electronics.|Radio signal for communication.
+0875|Significance|Importance or meaning.|Statistical significance in results.
+0876|Sintering|Process of compacting material by heat without melting.|Sintering metals in powder metallurgy.
+0877|Skew|Asymmetrical; distort.|Skew distribution in statistics.
+0878|Snide|Derogatory in an indirect way.|Snide remark about appearance.
+0879|Soldering|Joining metals with melted filler.|Soldering circuits in electronics.
+0880|Solidarity|Unity among individuals with common interest.|Solidarity in labor strikes.
+0881|Solipsism|Philosophy that only one's mind is sure to exist.|Solipsism questions external reality.
+0882|Solubility|Ability to dissolve in a solvent.|Salt's solubility in water.
+0883|Sonder|Realization that others have complex lives.|Sonder while people-watching.
+0884|Sone|Unit of perceived loudness.|Sound level in sones.
+0885|Sophistry|Deceptive reasoning; specious argument.|Sophistry in debates to mislead.
+0886|Soundness|Freedom from defect; logical validity.|Structural soundness of bridges.
+0887|Space|Physical expanse; area.|Outer space exploration.
+0888|Speciation|Formation of new species in evolution.|Speciation through isolation.
+0889|Spectacle|Impressive public display; eyeglasses.|Fireworks spectacle on holidays.
+0890|Spectroscopy|Study of interaction between matter and electromagnetic radiation.|Spectroscopy identifies elements.
+0891|Spectrum|Range of wavelengths; broad range.|Visible spectrum in rainbows.
+0892|Speculative|Based on conjecture; risky.|Speculative investments in stocks.
+0893|Speed|Rate of motion; velocity.|Speed of light constant.
+0894|Spherical|Shaped like a sphere.|Spherical Earth model.
+0895|Spontaneous|Arising naturally; without planning.|Spontaneous trip to the beach.
+0896|Stagnation|Lack of activity or growth.|Economic stagnation during recession.
+0897|Standard|A level or criterion used for comparison or judgment.|Industry safety standards apply.
+0898|Standing|Status or position within a group or context.|She has good standing in the community.
+0899|State|A condition or configuration at a given time.|System state changed.
+0900|Static|Unchanging or lacking motion.|Static charge built up.
+0901|Stationary|Not moving with respect to a reference frame.|A stationary observer.
+0902|Stimulated|Activated by an external input.|Stimulated neurons fired.
+0903|Stimuli|Plural of stimulus; inputs that provoke response.|Visual stimuli attract attention.
+0904|Stimulus|An input that elicits a response.|Light is a stimulus.
+0905|Strain|Deformation due to applied stress.|Material strain increased.
+0906|Strawman|A misrepresented argument used for easy refutation.|He attacked a strawman.
+0907|Stress|Force per unit area or psychological pressure.|Mechanical stress cracked metal.
+0908|Stupor|State of reduced consciousness or responsiveness.|The drug induced stupor.
+0909|Subservient|Excessively obedient or dependent.|A subservient role.
+0910|Substrate|The surface or material acted upon.|Enzymes bind substrate.
+0911|Succession|Sequential replacement or progression.|Ecological succession follows disturbance.
+0912|Succinct|Brief yet complete.|A succinct summary.
+0913|Superposition|Combination of states or signals.|Wave superposition occurs.
+0914|Supervised|Guided by labeled examples.|Supervised learning.
+0915|Surreal|Dreamlike or unreal.|A surreal landscape.
+0916|Susceptibility|Vulnerability to influence or effect.|Disease susceptibility varies.
+0917|Sustainable|Capable of long-term continuation.|Sustainable practices conserve resources.
+0918|Synchronization|Coordination in time.|Clock synchronization.
+0919|Synergy|Combined effect exceeding individual contributions.|Team synergy improved output.
+0920|Synesthesia|Cross-sensory perception.|Seeing colors from sounds.
+0921|Tachycardia|Abnormally rapid heart rate.|Exercise caused tachycardia.
+0922|Telos|An ultimate purpose or goal.|Fulfillment as telos.
+0923|Tempering|Controlled heating to reduce brittleness.|Steel tempering improves toughness.
+0924|Tenacity|Persistent determination.|She showed tenacity.
+0925|Tension|Force transmitted through stretching.|String tension affects pitch.
+0926|Test|An evaluation or trial.|A diagnostic test.
+0927|Testament|Evidence or declaration of belief.|A lasting testament.
+0928|Theory|A well-supported explanatory framework.|Evolutionary theory.
+0929|Thermoelectric|Converting heat to electricity.|Thermoelectric generators.
+0930|Thermophile|Organism thriving in high temperatures.|Hot-spring thermophiles.
+0932|Thixotropic|Becoming less viscous under stress.|Paint is thixotropic.
+0933|Thread|A sequence of execution or filament.|Program thread.
+0934|Threat|Potential source of harm.|Security threat detected.
+0935|Throughput|Rate of processing or transfer.|Network throughput increased.
+0936|Timbre|The quality of sound distinguishing sources.|Violin timbre is rich.
+0937|Time|Measure of duration or sequence.|Time passes steadily.
+0938|Titration|Gradual addition to determine concentration.|Acid-base titration.
+0939|Tomography|Imaging by sectional reconstruction.|CT tomography.
+0940|Topological|Relating to properties preserved under deformation.|Topological space.
+0941|Torque|Rotational force.|Torque turns bolts.
+0942|Torsion|Twisting due to applied torque.|Shaft torsion.
+0943|Total|Complete or entire amount.|Total sum.
+0944|Toughness|Ability to absorb energy without fracturing.|Material toughness increased.
+0945|Trajectory|Path of a projectile or object in motion.|Missile trajectory calculated for accuracy.
+0946|Transactional|Relating to conducting business or exchanges.|Transactional database for sales records.
+0947|Transcriptome|Complete set of RNA transcripts in a cell.|Transcriptome analysis reveals gene expression.
+0948|Transduction|Conversion of one form of energy to another; in biology, DNA transfer.|Signal transduction in cells.
+0949|Transfection|Introduction of foreign DNA into cells.|Transfection used in gene therapy.
+0950|Transformer|Device changing voltage in electrical circuits.|Step-up transformer increases voltage.
+0951|Transistor|Semiconductor device amplifying or switching signals.|Transistor in computer chips.
+0952|Transition|Change from one state to another.|Phase transition from liquid to gas.
+0954|Transmission|Act of sending or conveying; in mechanics, power transfer.|Data transmission over networks.
+0955|Transmutation|Change in form or nature; in chemistry, element transformation.|Nuclear transmutation in reactors.
+0956|Traversal|Act of passing across or through.|Graph traversal in algorithms.
+0957|Turbulent|Characterized by disorder or agitation.|Turbulent flow in fluids.
+0958|Type|Category or kind; in computing, data classification.|Blood type A positive.
+0959|Ultimate|Final or greatest; fundamental.|Ultimate goal of the project.
+0960|Unsupervised|Without guidance; in machine learning, without labeled data.|Unsupervised learning clusters data.
+0961|Validity|State of being logically or factually sound.|Validity of the argument.
+0962|Vapor|Gaseous state of a substance.|Water vapor in the atmosphere.
+0963|Velocity|Speed in a given direction.|Velocity of the car northward.
+0964|Vicissitude|Change of circumstances or fortune.|Vicissitudes of life bring surprises.
+0965|Virtue|Moral excellence; beneficial quality.|Patience is a virtue.
+0966|Viscoelastic|Exhibiting both viscous and elastic properties.|Viscoelastic materials like polymers.
+0967|Viscosity|Resistance to flow in fluids.|High viscosity in honey.
+0968|Void|Empty space; invalid.|Void contract due to fraud.
+0969|Volatile|Easily evaporated; changeable.|Volatile stock market.
+0970|Voltammetry|Electrochemical method measuring current-voltage.|Cyclic voltammetry for analysis.
+0971|Volume|Amount of space occupied; quantity.|Volume of a cube calculated.
+0972|Vulnerability|Susceptibility to harm.|Software vulnerability to hacks.
+0973|Wave|Oscillation propagating energy.|Sound wave travels through air.
+0974|Waveguide|Structure guiding electromagnetic waves.|Optical waveguide in fibers.
+0975|Wavelength|Distance between wave crests.|Visible light wavelength determines color.
+0976|Wavelet|Small wave; in math, oscillatory function.|Wavelet transform for signal analysis.
+0977|Welding|Joining materials by fusion.|Arc welding metals together.
+0978|Weltschmerz|Sentimental pessimism; world-weariness.|Weltschmerz from global issues.
+0979|Work|Exertion or effort; in physics, force times distance.|Mechanical work lifting weights.
+0980|Yield|Produce or provide; in chemistry, amount obtained.|Crop yield per acre.
+0981|Zeitgeist|Spirit of the times.|Zeitgeist of the digital age.
+0982|Disenfranchise|To deprive someone of political rights, especially the right to vote.|Laws once disenfranchised minority voters.
+0983|Franchise|The right or authorization to vote or operate commercially.|Universal suffrage expanded the franchise.
+0984|Restitution|Restoration or compensation for loss or wrongdoing.|The court ordered restitution.
+0985|Constituents|People represented by an elected official.|The senator met constituents.
+0986|Commission|Authority granted to perform a task; a governing body.|A commission investigated corruption.
+0987|Preamble|An introductory statement explaining purpose.|The Constitution’s preamble outlines intent.
+0988|Constitution|A foundational legal framework of governance.|The constitution limits state power.
+0989|Treason|Betrayal of one’s country or sovereign.|Espionage can constitute treason.
+0990|Prerogative|An exclusive right or privilege.|Executive prerogative.
+0991|Intercession|Intervention on behalf of another.|Diplomatic intercession prevented conflict.
+0992|Intersession|The interval between formal sessions.|Parliament met during intersession.
+0993|Capitulate|To surrender under agreed terms.|The army capitulated.
+0994|Ordained|Formally established or invested with authority.|The policy was ordained by law.
+0995|Reigning|Currently exercising authority.|The reigning monarch.
+0996|Subterfuge|Deception used to conceal intent.|Political subterfuge misled voters.
+0997|Institution|An established organization or system.|Judicial institutions uphold law.
+0998|Hereditary|Passed through family lineage.|Hereditary monarchy.
+0999|Ethnicity|Shared cultural or ancestral identity.|Ethnicity shapes identity.
+1000|Agency|Capacity to act independently or an acting body.|Individual agency matters.
+1001|Authorization|Formal permission or approval.|Authorization was required.
+1002|Clientelism|Exchange of favors for political support.|Clientelism distorts democracy.
+1003|Concord|Agreement or harmony.|Social concord stabilized society.
+1004|Concordat|A formal agreement between church and state.|The concordat defined authority.
+1005|Diplomacy|Managing relations through negotiation.|Diplomacy prevented war.
+1006|Factionalism|Division into opposing groups.|Factionalism weakened unity.
+1007|Fiduciary|Relating to trust and responsibility.|Fiduciary duty protects clients.
+1008|Mandate|An authoritative command or electoral authorization.|The election granted a mandate.
+1009|Oligarchy|Rule by a small elite.|Economic oligarchy formed.
+1010|Ownership|Legal possession or control.|Property ownership conveys rights.
+1011|Pretext|A false reason used to justify action.|War was launched on a pretext.
+1012|Allele|Variant form of a gene at a locus.|Dominant allele masks recessive.
+1013|Allopatric|Speciation due to geographic isolation.|Allopatric populations evolve separately.
+1014|Allosteric|Regulation by binding at a site other than active.|Allosteric enzyme changes shape.
+1015|Allotrope|Different structural forms of an element.|Diamond and graphite as carbon allotropes.
+1016|Alloy|Mixture of metals or metal with non-metal.|Steel is an iron-carbon alloy.
+1017|Amphiboly|Ambiguous sentence structure.|Flying planes can be dangerous.
+1018|Anaerobe|Organism living without oxygen.|Anaerobe in deep soil.
+1019|Anaerobic|Occurring without oxygen.|Anaerobic respiration in muscles.
+1020|Aneuploidy|Abnormal chromosome number.|Trisomy 21 in Down syndrome.
+1021|Anhedonia|Inability to feel pleasure.|Anhedonia in depression.
+1022|Anomia|Difficulty recalling names.|Anomia affects word retrieval.
+1023|Apoptosis|Programmed cell death.|Apoptosis removes damaged cells.
+1024|Apraxia|Inability to perform purposeful movements.|Apraxia after stroke.
+1025|Ataxia|Lack of muscle coordination.|Ataxia in cerebellar disorders.
+1026|Autotroph|Organism producing own food.|Plants as autotrophs via photosynthesis.
+1027|Biodiversity|Variety of life in an area.|Tropical rainforest biodiversity.
+1028|Biome|Large ecological community.|Tundra biome with permafrost.
+1029|Bioreactor|Vessel for biological reactions.|Bioreactor for fermenting beer.
+1030|Bioluminescence|Light production by organisms.|Fireflies exhibit bioluminescence.
+1031|Chemotroph|Organism using chemicals for energy.|Chemotroph bacteria in vents.
+1032|Chimeric|Composed of different genetic tissues.|Chimeric mice in research.
+1033|Chromatography|Technique separating mixtures.|Paper chromatography separates inks.
+1034|Clone|Genetically identical copy.|Dolly the sheep clone.
+1035|Codominant|Both alleles expressed equally.|AB blood type codominant.
+1036|Commensal|Symbiosis benefiting one without harming other.|Barnacles on whales commensal.
+1037|Cytokinesis|Division of cytoplasm in cell division.|Cytokinesis follows mitosis.
+1038|Depletion|Reduction or exhaustion of resources.|Ozone depletion in atmosphere.
+1039|Detritivore|Organism feeding on dead matter.|Earthworms as detritivores.
+1040|Endemic|Native and restricted to a region.|Koala endemic to Australia.
+1041|Endocytosis|Cell uptake of material by engulfing.|Endocytosis of nutrients.
+1042|Enzyme|Biological catalyst speeding reactions.|Amylase enzyme digests starch.
+1043|Epigenome|Chemical modifications to DNA affecting expression.|Epigenome influences traits.
+1044|Epistasis|One gene masking another's effect.|Epistasis in coat color.
+1045|Genome|Complete set of genetic material.|Human genome sequenced.
+1046|Genotype|Genetic makeup of an organism.|AA genotype for trait.
+1047|Herbivory|Consumption of plants by animals.|Deer herbivory on leaves.
+1048|Heterotroph|Organism consuming others for energy.|Animals as heterotrophs.
+1049|Heterozygous|Having different alleles at a locus.|Heterozygous for eye color.
+1050|Homozygous|Having identical alleles at a locus.|Homozygous recessive for trait.
+1051|Hybridization|Crossing different species or varieties.|Hybridization produces mules.
+1052|Karyotype|Chromosome number and appearance.|Human karyotype with 46 chromosomes.
+1053|Keystone|Species critical to ecosystem stability.|Wolves as keystone predators.
+1054|Ligase|Enzyme joining DNA fragments.|DNA ligase in replication.
+1055|Lithotroph|Organism using inorganic compounds for energy.|Lithotroph oxidizes minerals.
+1056|Meiosis|Cell division producing gametes.|Meiosis halves chromosome number.
+1057|Metabolome|Complete set of metabolites in a cell.|Metabolome profiling in disease.
+1058|Mitosis|Cell division for growth.|Mitosis produces identical cells.
+1059|Mutation|Change in DNA sequence.|Point mutation alters protein.
+1060|Mutualism|Symbiosis benefiting both.|Bees and flowers mutualism.
+1061|Organotroph|Organism using organic compounds for energy.|Humans as organotrophs.
+1062|Parapatry|Speciation with adjacent ranges.|Parapatry in hybrid zones.
+1063|Parasite|Organism living on host at its expense.|Tapeworm parasite in intestines.
+1064|Penetrance|Proportion showing expected phenotype.|Incomplete penetrance in genetics.
+1065|Phagocytosis|Engulfing particles by cells.|Macrophages perform phagocytosis.
+1066|Phenotype|Observable traits from genotype and environment.|Blue eyes as phenotype.
+1067|Phototroph|Organism using light for energy.|Algae as phototrophs.
+1068|Pioneer|First species colonizing barren area.|Lichens as pioneer organisms.
+1069|Plasmid|Small circular DNA in bacteria.|Plasmid carries antibiotic resistance.
+1070|Pleiotropy|One gene affecting multiple traits.|Pleiotropy in sickle cell.
+1071|Polymerase|Enzyme synthesizing polymers.|RNA polymerase transcribes DNA.
+1072|Polymorphism|Multiple forms in a population.|Blood type polymorphism.
+1073|Polyploidy|Multiple chromosome sets.|Polyploidy in plants.
+1074|Population|A group of organisms of the same species in a given area.|The wolf population recovered.
+1075|Predation|An interaction where one organism kills and consumes another.|Lions rely on predation.
+1076|Proteome|The complete set of proteins expressed by a cell or organism.|The proteome changes with conditions.
+1077|Recombinant|Formed by genetic material from different sources.|Recombinant DNA is engineered.
+1078|Recombination|The rearrangement of genetic material.|Meiotic recombination increases diversity.
+1079|Restriction|Limitation or control, especially enzymatic cutting in genetics.|Restriction enzymes cut DNA.
+1080|Saprophyte|An organism feeding on decaying matter.|Fungi act as saprophytes.
+1081|Speciation|The evolutionary formation of new species.|Geographic isolation led to speciation.
+1082|Symbiont|An organism living in close association with another.|Algae are coral symbionts.
+1083|Symbiosis|A close, long-term biological interaction.|Mutualism is a symbiosis.
+1084|Symbiote|An organism participating in symbiosis.|Each partner is a symbiote.
+1085|Sympatric|Occurring in the same geographic area.|Sympatric species diverged.
+1086|Transcriptome|The complete set of RNA transcripts.|Transcriptome analysis reveals expression.
+1087|Transduction|Transfer of genetic material via a vector.|Viral transduction moves genes.
+1088|Transfection|Introduction of nucleic acids into cells.|Plasmid transfection altered cells.
+1089|Translocation|Movement of DNA segments or structures.|Chromosomal translocation occurred.
+1090|Agnosia|Inability to recognize sensory input.|Visual agnosia affects object recognition.
+1091|Akinesia|Impaired initiation of movement.|Akinesia limits motion.
+1092|Alexithymia|Difficulty identifying or expressing emotions.|Alexithymia reduces emotional awareness.
+1093|Amnesia|Loss of memory.|Head trauma caused amnesia.
+1094|Anhedonia|Inability to experience pleasure.|Anhedonia marks depression.
+1095|Aphasia|Language impairment due to brain damage.|Stroke-induced aphasia.
+1096|Apophenia|Perceiving patterns in randomness.|Seeing faces in noise.
+1097|Apraxia|Impaired ability to perform learned actions.|Apraxia affects motor planning.
+1098|Ataxia|Loss of coordination and balance.|Cerebellar ataxia causes gait issues.
+1099|Bradycardia|Abnormally slow heart rate.|Resting bradycardia in athletes.
+1100|Bradykinesia|Slowness of movement.|Bradykinesia appears in Parkinson’s.
+1101|Catatonia|Psychomotor immobility or rigidity.|Catatonia followed psychosis.
+1102|Catatonic|Relating to catatonia.|A catatonic state persisted.
+1103|Coma|Deep unconscious state.|Patient remained in coma.
+1104|Delirium|Acute confusion with fluctuating awareness.|Infection caused delirium.
+1105|Dementia|Progressive cognitive decline.|Dementia impairs memory.
+1106|Depersonalization|Feeling detached from oneself.|Depersonalization followed trauma.
+1107|Derealization|Feeling the world is unreal.|Derealization altered perception.
+1108|Dyskinesia|Involuntary abnormal movements.|Medication caused dyskinesia.
+1109|Dysphasia|Partial language impairment.|Mild dysphasia persisted.
+1110|Dysphoria|Persistent unease or dissatisfaction.|Mood dysphoria increased stress.
+1111|Dysthymia|Chronic low-grade depression.|Dysthymia lasts years.
+1112|Dysphemism|Use of harsh or derogatory terms.|Dysphemism insults deliberately.
+1113|Euphoria|Intense happiness or elation.|Victory caused euphoria.
+1114|Fatiguability|Tendency to become fatigued easily.|Neuromuscular fatiguability increased.
+1115|Hypochondria|Excessive preoccupation with illness.|Hypochondria drove anxiety.
+1116|Hypomania|Mild elevated mood and activity.|Hypomania boosts energy.
+1117|Ischemia|Restricted blood supply to tissue.|Cardiac ischemia causes pain.
+1118|Mania|Severely elevated mood and activity.|Mania disrupts judgment.
+1119|Megalomania|Delusional belief in one’s greatness.|Megalomania fueled ambition.
+1120|Neuroplasticity|The brain’s ability to reorganize itself.|Neuroplasticity enables learning.
+1121|Prosopagnosia|Inability to recognize faces.|Prosopagnosia impairs social interaction.
+1122|Psychrophile|An organism thriving in cold environments.|Polar psychrophiles survive ice.
+1123|Stupor|State of minimal responsiveness.|Drug-induced stupor.
+1124|Tachycardia|Abnormally fast heart rate.|Stress triggered tachycardia.
+1125|Centurion|An officer commanding a hundred soldiers in ancient Rome.|A Roman centurion led troops.
+1126|Dendrobium|A genus of orchids.|Dendrobium orchids bloom brightly.
+1127|Durotomy|Surgical incision of the dura mater.|Accidental durotomy occurred.
+1128|Lobotomy|A surgical severing of frontal brain connections.|Lobotomy is now obsolete.
+1129|Abstraction|Concept or process of simplifying complex systems.|Data abstraction in programming.
+1130|Acceleration|Rate of change of velocity.|Car acceleration from 0 to 60 mph.
+1131|Acoustics|Science of sound production and transmission.|Room acoustics affect concert quality.
+1132|Activator|Substance increasing reaction rate or enzyme activity.|Transcription activator in genes.
+1133|Adiabatic|Process without heat exchange.|Adiabatic expansion in engines.
+1134|Adrenergic|Relating to adrenaline or noradrenaline.|Adrenergic receptors in nervous system.
+1135|Aerobe|Organism requiring oxygen for growth.|Human as obligate aerobe.
+1136|Alloy|Mixture of metals enhancing properties.|Bronze alloy of copper and tin.
+1137|Alpha|First Greek letter; type of radiation.|Alpha particles from radioactive decay.
+1138|Amplifier|Device increasing signal strength.|Audio amplifier boosts sound.
+1139|Amplitude|Maximum displacement in a wave.|Wave amplitude determines loudness.
+1140|Anode|Positive electrode attracting anions.|Anode in batteries during discharge.
+1141|Aperture|Opening controlling light or beam.|Camera aperture adjusts exposure.
+1142|Baryon|Subatomic particle like proton or neutron.|Baryons composed of three quarks.
+1143|Beam|Directed stream of particles or light.|Laser beam for cutting.
+1144|Becquerel|Unit of radioactivity.|One becquerel equals one decay per second.
+1145|Beta|Second Greek letter; type of radiation.|Beta decay emits electrons.
+1146|Binding|Attachment or energy holding particles.|Binding energy in atomic nuclei.
+1147|Birefringence|Splitting of light into two rays.|Birefringence in calcite crystals.
+1148|Boiling|Rapid vaporization at boiling point.|Water boiling at 100°C.
+1149|Boson|Particle with integer spin.|Higgs boson in particle physics.
+1150|Brittleness|Tendency to fracture without deformation.|Glass brittleness causes shattering.
+1151|Buffer|Solution resisting pH change.|Blood buffer maintains pH.
+1152|Capacitance|Ability to store electric charge.|Capacitance in circuits.
+1153|Capacitor|Device storing electrical energy.|Capacitor in electronic filters.
+1154|Catalyst|Substance speeding chemical reaction.|Enzyme as biological catalyst.
+1155|Cathode|Negative electrode attracting cations.|Cathode in electrolysis.
+1156|Cavity|Hollow space; in physics, resonant chamber.|Microwave cavity for heating.
+1157|Centrifugation|Separation using centrifugal force.|Centrifugation isolates cells.
+1158|Chemiluminescence|Light from chemical reaction.|Glow sticks chemiluminescence.
+1159|Chromatic|Relating to color; in optics, dispersion.|Chromatic aberration in lenses.
+1160|Circuit|Closed path for electric current.|Electric circuit powers devices.
+1161|Coefficient|Numerical factor; in physics, ratio.|Friction coefficient measures slipperiness.
+1162|Coercivity|Magnetic field needed to demagnetize.|High coercivity in permanent magnets.
+1163|Coherent|Waves in phase; consistent.|Coherent light in lasers.
+1164|Colligative|Properties depending on particle number.|Boiling point elevation colligative.
+1165|Collimation|Aligning beams in parallel.|Collimation in telescopes.
+1166|Condensation|Gas to liquid transition.|Dew condensation on grass.
+1167|Conductance|Ease of electric current flow.|High conductance in metals.
+1168|Confocal|Imaging technique focusing on plane.|Confocal microscopy for cells.
+1169|Conglomerate|Mixture of varied particles.|Conglomerate rock from sediments.
+1170|Conservation|Preservation of quantity like energy.|Conservation of momentum in collisions.
+1171|Continuity|Uninterrupted connection; in math, smooth.|Equation of continuity in fluids.
+1172|Corrosion|Deterioration by chemical reaction.|Iron corrosion forms rust.
+1173|Coulomb|Unit of electric charge.|One coulomb equals 6.24e18 electrons.
+1174|Coulometry|Electrochemical measurement of quantity.|Coulometry determines substance amount.
+1175|Creep|Slow deformation under stress.|Material creep in high temperatures.
+1176|Criticality|State where chain reaction sustains.|Nuclear criticality in reactors.
+1177|Cryophile|Organism thriving in cold.|Cryophile bacteria in Antarctica.
+1178|Crystallization|Formation of crystal structure.|Sugar crystallization in syrup.
+1179|Crystallography|Study of crystal structures.|X-ray crystallography for proteins.
+1180|Decay|A gradual decrease in quantity, strength, or activity.|Radioactive decay reduces unstable nuclei.
+1181|Deposition|The process by which material is laid down or settles.|Sediment deposition formed layers.
+1182|Density|Mass per unit volume.|Lead has high density.
+1183|Dielectric|An insulating material that stores electrical energy in an electric field.|Dielectrics increase capacitor efficiency.
+1184|Diffraction|The bending of waves around obstacles or openings.|Light diffraction appears through slits.
+1185|Diffusion|Movement of particles from high to low concentration.|Gas diffusion equalizes pressure.
+1186|Dilatant|Becoming more viscous under applied stress.|Cornstarch suspension is dilatant.
+1187|Diode|An electrical component allowing current in one direction.|A diode rectifies AC current.
+1188|Diopter|A unit of optical power equal to inverse meters.|A 2-diopter lens corrects vision.
+1189|Dispersion|Separation of waves by wavelength or velocity.|Prism dispersion splits light.
+1190|Distillation|Separation based on boiling points.|Alcohol distillation purifies liquids.
+1191|Distortion|Alteration from an original signal or shape.|Audio distortion degrades sound.
+1192|Ductility|Ability to stretch or deform without breaking.|Copper’s ductility allows wiring.
+1193|Elastic|Able to return to original shape after deformation.|Elastic bands stretch and recover.
+1194|Elasticity|The property of reversible deformation.|Material elasticity stores energy.
+1195|Electrode|A conductor through which current enters or exits a medium.|EEG electrodes detect signals.
+1196|Electrolyte|A substance that conducts electricity in solution.|Salt water contains electrolytes.
+1197|Electron|A negatively charged subatomic particle.|Electrons carry current.
+1198|Electrophoresis|Motion of charged particles in an electric field.|DNA electrophoresis separates fragments.
+1199|Electroplating|Metal coating using electrical current.|Chrome electroplating prevents rust.
+1200|Element|A substance composed of one atomic species.|Gold is an element.
+1201|Emission|Release of energy or particles.|Photon emission produces light.
+1202|Energy|The capacity to perform work.|Chemical energy fuels cells.
+1203|Enthalpy|Total heat content of a system.|Reaction enthalpy determines heat flow.
+1204|Entropy|A measure of disorder or uncertainty.|Entropy increases in closed systems.
+1205|Equilibrium|A state of balanced forces or rates.|Chemical equilibrium stabilizes reactions.
+1206|Evaporation|Surface phase change from liquid to gas.|Sweat cools by evaporation.
+1207|Excitation|Transition to a higher energy state.|Electron excitation emits light.
+1208|Fermion|A particle obeying Fermi–Dirac statistics.|Electrons are fermions.
+1209|Ferroelectric|Exhibiting spontaneous electric polarization.|Ferroelectrics store memory states.
+1210|Ferromagnetism|Strong, permanent magnetic alignment.|Iron shows ferromagnetism.
+1211|Fiber|A long, thin structural or optical strand.|Optical fiber transmits data.
+1212|Fission|Splitting of a heavy atomic nucleus.|Nuclear fission releases energy.
+1213|Fluid|A substance that flows under stress.|Liquids and gases are fluids.
+1214|Fluorescence|Light emission following energy absorption.|Fluorescence microscopy enhances imaging.
+1215|Focal|Relating to a focus or convergence point.|Focal length determines magnification.
+1216|Focusing|Directing waves toward a point.|Lens focusing sharpens images.
+1217|Force|An interaction that changes motion.|Gravity exerts force.
+1218|Freezing|Phase change from liquid to solid.|Water freezing forms ice.
+1219|Frequency|Number of cycles per unit time.|Sound frequency determines pitch.
+1220|Friction|Resistance to relative motion.|Friction generates heat.
+1221|Fusion|Combining nuclei into heavier ones.|Stellar fusion powers stars.
+1222|Gamma|High-energy electromagnetic radiation or parameter.|Gamma rays penetrate matter.
+1223|Gaussian|Following a normal distribution.|Gaussian curves model noise.
+1224|Gibbs|Relating to free energy in thermodynamics.|Gibbs free energy predicts spontaneity.
+1225|Gluon|A particle mediating strong nuclear force.|Gluons bind quarks.
+1226|Gradient|Rate of change across space.|Temperature gradient drives heat flow.
+1227|Gravity|Attractive force between masses.|Gravity governs orbits.
+1228|Grating|A structure with periodic lines causing diffraction.|Diffraction grating separates wavelengths.
+1229|Abstraction|Concept or process of simplifying complex systems.|Data abstraction in programming.
+1230|Acceleration|Rate of change of velocity.|Car acceleration from 0 to 60 mph.
+1231|Acoustics|Science of sound production and transmission.|Room acoustics affect concert quality.
+1232|Activator|Substance increasing reaction rate or enzyme activity.|Transcription activator in genes.
+1233|Adiabatic|Process without heat exchange.|Adiabatic expansion in engines.
+1234|Adrenergic|Relating to adrenaline or noradrenaline.|Adrenergic receptors in nervous system.
+1235|Aerobe|Organism requiring oxygen for growth.|Human as obligate aerobe.
+1236|Alloy|Mixture of metals enhancing properties.|Bronze alloy of copper and tin.
+1237|Alpha|First Greek letter; type of radiation.|Alpha particles from radioactive decay.
+1238|Amplifier|Device increasing signal strength.|Audio amplifier boosts sound.
+1239|Amplitude|Maximum displacement in a wave.|Wave amplitude determines loudness.
+1240|Anode|Positive electrode attracting anions.|Anode in batteries during discharge.
+1241|Aperture|Opening controlling light or beam.|Camera aperture adjusts exposure.
+1242|Baryon|Subatomic particle like proton or neutron.|Baryons composed of three quarks.
+1243|Beam|Directed stream of particles or light.|Laser beam for cutting.
+1244|Becquerel|Unit of radioactivity.|One becquerel equals one decay per second.
+1245|Beta|Second Greek letter; type of radiation.|Beta decay emits electrons.
+1246|Binding|Attachment or energy holding particles.|Binding energy in atomic nuclei.
+1247|Birefringence|Splitting of light into two rays.|Birefringence in calcite crystals.
+1248|Boiling|Rapid vaporization at boiling point.|Water boiling at 100°C.
+1249|Boson|Particle with integer spin.|Higgs boson in particle physics.
+1250|Brittleness|Tendency to fracture without deformation.|Glass brittleness causes shattering.
+1251|Buffer|Solution resisting pH change.|Blood buffer maintains pH.
+1252|Capacitance|Ability to store electric charge.|Capacitance in circuits.
+1253|Capacitor|Device storing electrical energy.|Capacitor in electronic filters.
+1254|Catalyst|Substance speeding chemical reaction.|Enzyme as biological catalyst.
+1255|Cathode|Negative electrode attracting cations.|Cathode in electrolysis.
+1256|Cavity|Hollow space; in physics, resonant chamber.|Microwave cavity for heating.
+1257|Centrifugation|Separation using centrifugal force.|Centrifugation isolates cells.
+1258|Chemiluminescence|Light from chemical reaction.|Glow sticks chemiluminescence.
+1259|Chromatic|Relating to color; in optics, dispersion.|Chromatic aberration in lenses.
+1260|Circuit|Closed path for electric current.|Electric circuit powers devices.
+1261|Coefficient|Numerical factor; in physics, ratio.|Friction coefficient measures slipperiness.
+1262|Coercivity|Magnetic field needed to demagnetize.|High coercivity in permanent magnets.
+1263|Coherent|Waves in phase; consistent.|Coherent light in lasers.
+1264|Colligative|Properties depending on particle number.|Boiling point elevation colligative.
+1265|Collimation|Aligning beams in parallel.|Collimation in telescopes.
+1266|Condensation|Gas to liquid transition.|Dew condensation on grass.
+1267|Conductance|Ease of electric current flow.|High conductance in metals.
+1268|Confocal|Imaging technique focusing on plane.|Confocal microscopy for cells.
+1269|Conglomerate|Mixture of varied particles.|Conglomerate rock from sediments.
+1270|Conservation|Preservation of quantity like energy.|Conservation of momentum in collisions.
+1271|Continuity|Uninterrupted connection; in math, smooth.|Equation of continuity in fluids.
+1272|Corrosion|Deterioration by chemical reaction.|Iron corrosion forms rust.
+1273|Coulomb|Unit of electric charge.|One coulomb equals 6.24e18 electrons.
+1274|Coulometry|Electrochemical measurement of quantity.|Coulometry determines substance amount.
+1275|Creep|Slow deformation under stress.|Material creep in high temperatures.
+1276|Criticality|State where chain reaction sustains.|Nuclear criticality in reactors.
+1277|Cryophile|Organism thriving in cold.|Cryophile bacteria in Antarctica.
+1278|Crystallization|Formation of crystal structure.|Sugar crystallization in syrup.
+1279|Crystallography|Study of crystal structures.|X-ray crystallography for proteins.
+1280|Thermophile|Organism thriving at high temperatures.|Thermophile bacteria in hot springs.
+1281|Thixotropic|Property where viscosity decreases under shear.|Thixotropic paint flows when brushed.
+1282|Timbre|Quality of sound distinguishing instruments.|Violin's timbre differs from flute's.
+1283|Time|Dimension measuring duration of events.|Time passes quickly during fun.
+1284|Titration|Technique determining concentration by adding reagent.|Acid-base titration uses indicators.
+1285|Tomography|Imaging by sections using penetrating waves.|CT tomography for medical scans.
+1286|Torque|Rotational force causing twisting.|Torque wrench tightens bolts.
+1287|Torsion|Twisting deformation under torque.|Torsion in a shaft.
+1288|Toughness|Ability to absorb energy before fracture.|Material toughness resists cracking.
+1289|Trajectory|Path followed by an object in motion.|Projectile trajectory under gravity.
+1290|Transformer|Device altering AC voltage.|Step-down transformer reduces voltage.
+1291|Transistor|Semiconductor for switching or amplifying.|Transistor in electronic circuits.
+1292|Transition|Change from one state to another.|Phase transition in materials.
+1293|Transmission|Transfer of power or signals.|Power transmission lines.
+1294|Transmutation|Conversion of one element to another.|Nuclear transmutation in stars.
+1295|Transverse|Perpendicular to the direction of propagation.|Transverse waves in strings.
+1296|Turbulent|Chaotic, irregular flow.|Turbulent airflow over wings.
+1297|Vapor|Gaseous phase of a substance.|Water vapor in air.
+1298|Viscoelastic|Having both viscous and elastic properties.|Viscoelastic dough stretches and flows.
+1299|Viscosity|Resistance to flow in fluids.|High viscosity in syrup.
+1300|Volatile|Easily evaporating or changeable.|Volatile compounds in perfumes.
+1301|Voltammetry|Electrochemical analysis measuring current-voltage.|Cyclic voltammetry for redox.
+1302|Volume|Space occupied by a body.|Volume of a sphere formula.
+1303|Vulnerability|Susceptibility to harm or attack.|Software vulnerability patched.
+1304|Wave|Disturbance propagating energy.|Ocean wave crashing on shore.
+1305|Waveguide|Structure directing electromagnetic waves.|Waveguide in microwave ovens.
+1306|Wavelength|Distance between successive wave crests.|Red light has longer wavelength.
+1307|Wavelet|Small wave used in signal analysis.|Wavelet transform for compression.
+1308|Welding|Joining materials by melting.|Arc welding fuses metals.
+1309|Work|Energy transfer by force over distance.|Work done lifting weights.
+1310|Yield|Amount produced; stress point.|Crop yield increased.
+1311|Oscillation|Regular variation about an equilibrium point.|Pendulum oscillation repeats periodically.
+1312|Oscillator|A system that produces periodic motion or signals.|An electronic oscillator generates waves.
+1313|Osmosis|Movement of solvent across a semipermeable membrane.|Water enters cells by osmosis.
+1314|Oxidation|Loss of electrons in a chemical reaction.|Iron oxidation forms rust.
+1315|Permeability|Ability of a material to allow passage.|Membrane permeability controls flow.
+1316|Phase|A distinct state of matter or cycle stage.|Solid phase differs from liquid.
+1317|Phosphorescence|Delayed light emission after excitation.|Glow-in-the-dark paint phosphoresces.
+1318|Photon|A quantum of electromagnetic radiation.|A photon carries light energy.
+1319|Physical|Relating to material reality or matter.|Physical properties describe substances.
+1320|Piezoelectric|Generating electric charge under stress.|Quartz is piezoelectric.
+1321|Pitch|Perceived frequency of sound.|High pitch sounds shrill.
+1322|Polarizability|Ease of forming electric dipoles.|High polarizability enhances interaction.
+1323|Polarization|Orientation of waves or charge separation.|Light polarization filters glare.
+1324|Positron|The electron’s positively charged antiparticle.|Positrons appear in decay.
+1325|Potentiometry|Measurement of electrical potential.|pH meters use potentiometry.
+1326|Power|Rate of energy transfer.|Engine power output matters.
+1327|Precipitation|Formation of solid from solution or atmosphere.|Rain is precipitation.
+1328|Proton|A positively charged subatomic particle.|Protons define atomic number.
+1329|Pyroelectric|Generating charge from temperature change.|Pyroelectric sensors detect motion.
+1330|Quark|A fundamental constituent of hadrons.|Quarks form protons.
+1331|Quenching|Rapid cooling or suppression of reaction.|Metal quenching increases hardness.
+1332|Radioactivity|Spontaneous nuclear decay emitting radiation.|Radioactivity releases energy.
+1333|Radiography|Imaging using penetrating radiation.|X-ray radiography visualizes bones.
+1334|Rarefaction|Decrease in density or pressure.|Sound waves cause rarefaction.
+1335|Ray|A directed line of energy propagation.|A light ray refracts.
+1336|Reactance|Opposition to alternating current.|Inductive reactance rises with frequency.
+1337|Reactor|A system enabling controlled reactions.|Nuclear reactor produces energy.
+1338|Redox|Coupled oxidation and reduction processes.|Cell respiration is redox-based.
+1339|Reduction|Gain of electrons in chemistry.|Oxygen undergoes reduction.
+1340|Reflection|Wave bouncing off a surface.|Mirror reflection reverses image.
+1341|Refraction|Wave bending across media boundaries.|Refraction bends light in water.
+1342|Refrigeration|Removal of heat to lower temperature.|Refrigeration preserves food.
+1343|Rem|Unit of radiation dose accounting for effect.|Radiation exposure measured in rem.
+1344|Remanence|Residual magnetization after field removal.|Magnetic remanence persists.
+1345|Resistance|Opposition to current flow.|Wire resistance causes heat.
+1346|Resistor|A component limiting current.|A resistor protects circuits.
+1347|Resolution|Degree of detail distinguishable.|High resolution improves clarity.
+1348|Resonator|A system that amplifies oscillations.|An acoustic resonator boosts sound.
+1349|Rheology|Study of material flow and deformation.|Rheology explains viscosity.
+1350|Saponify|To convert fats into soap.|Alkali saponifies oils.
+1351|Saturation|Maximum level of capacity or intensity.|Color saturation increased.
+1352|Scanning|Systematic examination across an area.|Scanning microscopy reveals structure.
+1353|Shear|Force causing parallel displacement.|Shear stress deforms layers.
+1354|Sievert|SI unit of radiation dose effect.|Exposure measured in sieverts.
+1355|Signal|A transmitted information-bearing variation.|Neural signals carry messages.
+1356|Sintering|Bonding particles by heat without melting.|Ceramic sintering strengthens parts.
+1357|Soldering|Joining metals using low-melting alloy.|Electronics soldering connects circuits.
+1358|Solubility|Ability of a substance to dissolve.|Salt solubility varies with temperature.
+1359|Sone|Unit of perceived loudness.|Sound measured in sones.
+1360|Space|Three-dimensional extent containing objects.|Space expands cosmically.
+1361|Spectroscopy|Study of interaction between matter and radiation.|Spectroscopy identifies elements.
+1362|Spectrum|Range of frequencies or wavelengths.|Visible spectrum spans colors.
+1363|Speed|Rate of motion or change.|Light speed is constant.
+1364|Spherical|Having shape of a sphere.|Spherical symmetry applies.
+1365|Spontaneous|Occurring without external cause.|Spontaneous decay occurs naturally.
+1366|Standard|Accepted reference or norm.|Measurement standard ensures consistency.
+1367|Standing|Fixed in position or status.|Standing waves form nodes.
+1368|State|A defined condition of a system.|Quantum state evolves.
+1369|Static|Unchanging or nonmoving.|Static electricity accumulates.
+1370|Stationary|Not moving relative to reference.|Stationary frame assumed.
+1371|Steroidal|Relating to steroid compounds.|Steroidal hormones regulate growth.
+1372|Stimulated|Activated by external input.|Stimulated emission produces lasers.
+1373|Stochastic|Involving randomness.|Stochastic processes vary unpredictably.
+1374|Strain|Deformation relative to original length.|Material strain increases stress.
+1375|Stress|Force applied per unit area.|Stress fractures materials.
+1376|Sublimation|Phase change from solid to gas.|Dry ice sublimates.
+1377|Substrate|Material acted upon in a process.|Enzymes bind substrates.
+1378|Superposition|Combination of multiple states or waves.|Quantum superposition allows overlap.
+1379|Thermoelectric|Converting temperature differences to electricity.|Thermoelectric generators harvest heat.
+1380|Thermodynamics|The study of energy, heat, and work.|Thermodynamics governs engines.
+1381|Abide|To accept or act in accordance with a rule or decision.|I abide by the laws of the land.
+1382|Absolution|Formal release from guilt or punishment.|The priest granted absolution after confession.
+1383|Alchemy|Medieval chemistry aiming to transform base metals into gold; metaphor for transformation.|Alchemy in literature symbolizes personal change.
+1384|Altruism|Selfless concern for others' well-being.|Donating to charity is an act of altruism.
+1385|Ambiguity|Uncertainty or inexactness of meaning.|The poem's ambiguity allows multiple interpretations.
+1386|Anachronism|Something out of its proper time period.|A smartphone in a medieval film is an anachronism.
+1387|Anodyne|Something that relieves pain or distress; bland.|The speech was anodyne and uncontroversial.
+1388|Anomie|Lack of social norms; alienation.|Urban anomie leads to social disconnection.
+1389|Anonymity|State of being unknown or unnamed.|Online anonymity encourages free expression.
+1390|Antithesis|Direct opposite; contrast in rhetoric.|Love is the antithesis of hate.
+1391|Apathy|Lack of interest or concern.|Voter apathy affects election turnout.
+1392|Aporia|Expression of doubt or puzzlement in rhetoric.|The philosopher's aporia challenged assumptions.
+1393|Archetype|Typical example or original model.|The hero archetype in myths.
+1394|Catharsis|Release of emotional tension.|Watching a tragedy provides catharsis.
+1395|Coincidence|Remarkable concurrence of events without connection.|Meeting an old friend was a coincidence.
+1396|Communion|Sharing of intimate thoughts; Eucharist.|Communion fosters spiritual unity.
+1397|Conceptualism|Art emphasizing ideas over aesthetics.|Conceptualism in modern installations.
+1398|Conundrum|Confusing problem or riddle.|The puzzle was a real conundrum.
+1399|Cynicism|Distrust of human sincerity.|His cynicism stemmed from betrayal.
+1400|Deconstruction|Critical analysis exposing assumptions.|Deconstruction of literary texts.
+1401|Deontology|Ethics based on duty and rules.|Deontology prioritizes moral absolutes.
+1402|Dialectic|Method of argument through opposites.|Hegelian dialectic of thesis-antithesis-synthesis.
+1403|Dichotomy|Division into two mutually exclusive parts.|False dichotomy between good and evil.
+1404|Dissonance|Lack of harmony; conflict.|Cognitive dissonance from conflicting beliefs.
+1405|Elixir|Magical potion; cure-all.|Elixir of life in folklore.
+1406|Embody|Give tangible form to an idea.|She embodies grace and strength.
+1407|Enmity|State of being an enemy; hostility.|Long-standing enmity between rivals.
+1408|Ennui|Boredom from lack of interest.|Ennui plagued the idle rich.
+1409|Ephemeral|Lasting for a short time.|Ephemeral beauty of cherry blossoms.
+1410|Epiphenomenon|Secondary phenomenon accompanying another.|Consciousness as epiphenomenon of brain activity.
+1411|Epistemology|Study of knowledge and belief.|Epistemology questions what we know.
+1412|Eternal|Lasting forever; without end.|Eternal love in romantic tales.
+1413|Ethos|Characteristic spirit of a culture or community.|Ethos of innovation in Silicon Valley.
+1414|Existential|Relating to existence; concerned with human freedom.|Existential crisis about life's meaning.
+1415|Existentialism|Philosophy emphasizing individual existence and choice.|Sartre's existentialism stresses freedom.
+1416|Hedonism|Pursuit of pleasure as highest good.|Hedonism in Epicurean philosophy.
+1417|Hedonistic|Devoted to seeking pleasure.|Hedonistic lifestyle of indulgence.
+1418|Hermeneutics|Theory of interpretation, especially texts.|Biblical hermeneutics for scripture.
+1419|Holistic|Emphasizing the whole rather than parts.|Holistic medicine treats body and mind.
+1420|Hubris|Excessive pride leading to downfall.|Hubris caused the king's ruin.
+1421|Ineffable|Too great to be expressed in words.|Ineffable joy of the moment.
+1422|Innate|Inborn; natural.|Innate talent for music.
+1423|Intellect|Faculty of reasoning and understanding.|Sharp intellect solves complex problems.
+1424|Intuition|Ability to understand without conscious reasoning.|Intuition guided her decision.
+1425|Kairos|Opportune moment; right time.|Seize the kairos for action.
+1426|Logic|Reasoning conducted according to principles.|Deductive logic from premises.
+1427|Logos|Rational principle; in rhetoric, appeal to logic.|Logos in persuasive arguments.
+1428|Melancholy|A reflective, lingering sadness without clear cause.|Autumn weather evokes melancholy.
+1429|Metanoia|A profound transformation of mind or outlook.|Failure led to metanoia.
+1430|Metaphysics|The branch of philosophy studying being and reality.|Metaphysics questions existence.
+1431|Microcosm|A small system reflecting a larger whole.|A family is a microcosm of society.
+1432|Mindful|Attentive and aware of the present moment.|Mindful breathing calms focus.
+1433|Mnemonics|Techniques that aid memory retention.|Acronyms are mnemonics.
+1434|Mysticism|Belief in direct experiential knowledge of the divine.|Mysticism seeks transcendence.
+1435|Mythos|A culture’s foundational narratives or beliefs.|Greek mythos shaped values.
+1436|Nihilistic|Believing life lacks inherent meaning or value.|Nihilistic despair followed loss.
+1437|Nostalgia|Sentimental longing for the past.|Music triggered nostalgia.
+1438|Ontology|The study of being and existence.|Ontology examines what is real.
+1439|Panacea|A supposed cure for all problems.|No policy is a panacea.
+1440|Paradigm|A framework guiding understanding or practice.|A scientific paradigm shifted.
+1441|Paradox|A statement seeming contradictory yet true.|Time flies paradox.
+1442|Pathos|Emotional appeal in persuasion.|Pathos moved the audience.
+1443|Phenomenology|Study of conscious experience.|Phenomenology analyzes perception.
+1444|Pragmatism|Evaluating ideas by practical outcomes.|Pragmatism favors results.
+1445|Proclivity|A natural inclination or tendency.|He had a proclivity for art.
+1446|Qualia|Subjective qualities of experience.|Color sensations are qualia.
+1447|Rationalism|Emphasizing reason as knowledge source.|Rationalism trusts logic.
+1448|Reductionism|Explaining systems by their parts.|Reductionism simplifies biology.
+1449|Relativism|Truth depending on context or culture.|Moral relativism varies norms.
+1450|Rhetoric|The art of persuasive communication.|Political rhetoric swayed voters.
+1451|Saudade|A deep, bittersweet longing.|Saudade filled the song.
+1452|Schadenfreude|Pleasure from another’s misfortune.|He felt schadenfreude.
+1453|Skepticism|Questioning claims until evidence appears.|Scientific skepticism tests ideas.
+1454|Solipsism|Belief only one’s mind is certain to exist.|Solipsism denies external reality.
+1455|Sonder|Realization others have complex inner lives.|Sonder struck on the subway.
+1456|Sophistry|Deceptive reasoning to persuade.|The debate used sophistry.
+1457|Stoicism|Philosophy of emotional resilience and virtue.|Stoicism values self-control.
+1458|Surrealism|Artistic movement exploring the unconscious.|Surrealist paintings defy logic.
+1459|Symbolism|Use of symbols to convey deeper meaning.|White doves symbolize peace.
+1460|Synchronicity|Meaningful coincidence without causation.|Their meeting felt synchronicity.
+1461|Telos|An ultimate purpose or goal.|Fulfillment as telos.
+1462|Theory|A coherent explanatory system.|Evolutionary theory explains diversity.
+1463|Utilitarianism|Ethics maximizing overall well-being.|Utilitarianism weighs outcomes.
+1464|Virtue|A morally good trait or excellence.|Honesty is a virtue.
+1465|Void|An absence or empty state.|A void remained.
+1466|Weltschmerz|A sense of world-weariness or sorrow.|Weltschmerz colored his poetry.
+1467|Zeitgeist|Spirit or mood of a particular period in history.|The zeitgeist of the 1960s was countercultural revolution.
+1468|Absurdism|Philosophy asserting human search for meaning clashes with the universe's indifference.|Camus' absurdism in "The Myth of Sisyphus."
+1469|Compatibilism|View that free will and determinism are compatible.|Compatibilism argues choices are free if uncoerced.
+1470|Dualism|Belief in two fundamental kinds of substance, like mind and body.|Cartesian dualism separates mind from matter.
+1471|Empiricism|Theory that knowledge comes primarily from sensory experience.|Locke's empiricism claims mind as tabula rasa.
+1472|Emergence|Property where complex systems exhibit behaviors not predictable from parts.|Consciousness as emergence from brain activity.
+1473|Holism|Idea that systems should be viewed as wholes, not sums of parts.|Holism in ecology considers ecosystems interconnected.
+1474|Intentionality|Philosophical concept of mental states directed towards objects.|Intentionality in thoughts about a specific person.
+1475|Monism|Doctrine that all reality is of one kind.|Material monism holds everything is physical.
+1476|Pragmatism|Philosophy judging truth by practical consequences.|James' pragmatism evaluates ideas by usefulness.
+1477|Rationalism|Belief that reason is the chief source of knowledge.|Descartes' rationalism relies on innate ideas.
+1478|Reductionism|Approach explaining phenomena by reducing to simpler components.|Reductionism in biology explains behavior via genes.
+1479|Relativism|View that truth and morality are relative to contexts.|Cultural relativism sees morals varying by society.
+1480|Skepticism|Doubting accepted beliefs or knowledge claims.|Pyrrhonian skepticism suspends judgment.
+1481|Attention|The cognitive process of selectively focusing on specific information.|Sustained attention improves learning.
+1482|Bias|A systematic tendency influencing judgment or perception.|Confirmation bias shapes beliefs.
+1483|Cognitive|Relating to mental processes such as thinking and reasoning.|Cognitive skills support problem-solving.
+1484|Compulsion|An irresistible urge to perform an action.|He felt a compulsion to check again.
+1486|Confirmation|Evidence that supports or verifies a belief.|The data offered confirmation.
+1487|Delusion|A fixed false belief resistant to evidence.|The delusion persisted despite proof.
+1488|Depersonalization|A feeling of detachment from one’s self.|Stress triggered depersonalization.
+1489|Derealization|A sense that the external world is unreal.|Derealization altered perception.
+1490|Empathy|The capacity to understand another’s emotions.|Empathy strengthens relationships.
+1491|Euphoria|An intense state of happiness or elation.|Victory caused euphoria.
+1492|Expectation|An anticipated outcome or belief.|Expectation influenced behavior.
+1493|Heuristic|A mental shortcut used for quick judgment.|Availability heuristic skews estimates.
+1494|Hypomania|A mild elevated mood and increased activity.|Hypomania boosted energy.
+1495|Illusion|A misperception of reality.|The illusion fooled observers.
+1496|Impulse|A sudden urge or force prompting action.|Impulse led to a quick decision.
+1497|Infatuation|An intense but short-lived attraction.|Infatuation faded quickly.
+1498|Instinctively|Acting by innate impulse rather than deliberation.|She instinctively avoided danger.
+1499|Introspection|Examination of one’s own thoughts or feelings.|Introspection deepened self-awareness.
+1500|Intuition|Immediate understanding without conscious reasoning.|He trusted his intuition.
+1501|Mania|A state of abnormally elevated mood and activity.|Mania impaired judgment.
+1502|Memory|The capacity to store and recall information.|Long-term memory persists.
+1503|Mindfulness|Nonjudgmental awareness of the present moment.|Mindfulness reduces stress.
+1504|Mnemonics|Techniques that aid memory retention.|Rhymes are mnemonics.
+1505|Neuroplasticity|The brain’s ability to reorganize itself.|Neuroplasticity supports learning.
+1506|Noesis|Direct intellectual insight or understanding.|Philosophers describe noesis as knowing.
+1507|Nostalgia|A sentimental longing for the past.|Music evoked nostalgia.
+1508|Pareidolia|Perceiving meaningful patterns in randomness.|Seeing faces in clouds is pareidolia.
+1509|Perception|The process of interpreting sensory information.|Perception shapes reality.
+1510|Prosopagnosia|Inability to recognize faces.|Prosopagnosia hinders social interaction.
+1511|Saudade|A deep, bittersweet longing for something absent.|Saudade filled the song.
+1512|Schadenfreude|Pleasure derived from another’s misfortune.|He felt schadenfreude briefly.
+1513|Serendipity|The occurrence of fortunate discoveries by chance.|Serendipity led to innovation.
+1514|Sonder|Realization that others have rich inner lives.|Sonder struck in the crowd.
+1515|Stimuli|Plural of stimulus; inputs that provoke responses.|Visual stimuli attract attention.
+1516|Stimulus|An input that elicits a response.|Light is a stimulus.
+1517|Synesthesia|A blending of sensory experiences.|Sounds triggered colors.
+1518|Acumen|Sharpness of insight or judgment.|Business acumen guided decisions.
+1519|Apophenia|The tendency to perceive patterns where none exist.|Apophenia fueled false conclusions.
+1520|Apperception|Interpretation shaped by prior experience.|Apperception alters meaning.
+1521|Cognition|The mental processes of knowing and understanding.|Cognition enables reasoning.
+1522|Contemplation|Deep reflective thought.|Contemplation clarified goals.
+1523|Discernment|The ability to judge clearly and wisely.|Discernment avoided mistakes.
+1524|Enlightenment|A state of profound understanding or insight.|Meditation brought enlightenment.
+1525|Epiphany|A sudden realization or insight.|An epiphany changed perspective.
+1526|Foresight|The ability to anticipate future outcomes.|Foresight prevented loss.
+1527|Gestalt|A whole perceived as more than its parts.|Gestalt perception integrates form.
+1528|Hindsight|Understanding events after they occur.|Hindsight revealed errors.
+1529|Inference|Logical conclusion drawn from premises.|She made an inference from the evidence.
+1530|Introspection|Examination of one's own thoughts and feelings.|Introspection helps personal growth.
+1531|Mindfulness|State of active, open attention to the present.|Mindfulness meditation reduces stress.
+1532|Noesis|Act of thinking; intellectual intuition.|Noesis in Platonic philosophy.
+1533|Pareidolia|Seeing patterns in random stimuli.|Pareidolia makes faces in clouds.
+1534|Perspicacity|Keen understanding or insight.|Her perspicacity solved the mystery.
+1535|Reflection|Serious thought or consideration.|Reflection on past mistakes.
+1536|Sagacity|Wisdom and good judgment.|Sagacity in decision-making.
+1537|Serendipity|Fortunate discovery by accident.|Serendipity led to the invention.
+1538|Synchronicity|Meaningful coincidence without causality.|Synchronicity in Jungian psychology.
+1539|Wisdom|Knowledge and good judgment.|Wisdom comes with experience.
+1540|Ebonics|African American Vernacular English.|Ebonics in urban communities.
+1541|Orient|Align or position relative to points.|Orient the map north.
+1542|Proliferation|Rapid increase or spread.|Cell proliferation in growth.
+1543|Doxastic|Relating to belief or opinion.|Doxastic logic studies beliefs.
+1544|Deposition|Testimony under oath; removal.|Witness deposition in court.
+1545|Conglomerate|Corporation of diverse companies.|Media conglomerate owns networks.
+1546|Harbinger|Sign foreshadowing future events.|Dark clouds harbinger rain.
+1547|Crystallization|Formation of crystals from solution.|Salt crystallization in evaporation.
+1548|Saponify|Convert fat into soap by alkali.|Saponify oils in soap-making.
+1549|Continuity|Uninterrupted connection or succession.|Continuity in the storyline.
+1550|Economy|Management of resources; financial system.|National economy affects jobs.
+1551|Strife|Conflict or struggle.|Political strife divides nations.
+1552|Resonance|Vibration amplification; emotional echo.|Resonance in musical instruments.
+1553|Blitzkrieg|Rapid military offensive.|Blitzkrieg tactics in WWII.
+1554|Inundate|Overwhelm with things or flood.|Inundate with emails daily.
+1555|Cryptid|Creature whose existence is unproven.|Bigfoot as a cryptid.
+1556|Farce|Absurd or mocking comedy.|The play was a farce.
+1557|Expedition|Journey for a purpose.|Arctic expedition for research.
+1558|Expediate|Misspelling of expedite; to speed up.|Expediate the process quickly.
+1559|Expound|Explain in detail.|Expound on the theory.
+1560|Abide|Endure or obey.|Abide by the rules.
+1561|Absorbed|Fully engrossed or taken in.|Absorbed in the book.
+1562|Agency|Power to act; organization.|Human agency in choices.
+1563|Alchemy|Medieval precursor to chemistry.|Alchemy sought gold transmutation.
+1564|Alacrity|Brisk and cheerful readiness.|Accepted with alacrity.
+1565|Algorithm|Step-by-step procedure for calculations.|Sorting algorithm in programming.
+1566|Amalgam|Mixture or blend.|Amalgam of cultures.
+1567|Ambiguity|Uncertainty of meaning.|Ambiguity in the contract.
+1568|Anachronism|Error in chronology.|Clock in ancient Rome anachronism.
+1569|Anodyne|Not likely to offend; pain-relieving.|Anodyne remarks at the meeting.
+1570|Innate|Existing from birth; inherent.|Innate abilities like reflexes.
+1571|Inertia|Resistance to change in motion; tendency to remain unchanged.|The inertia of the heavy object made it hard to move.
+1572|Intellect|The faculty of reasoning and understanding.|Her sharp intellect solved complex puzzles.
+1573|Intrepid|Fearless and adventurous.|Intrepid explorers ventured into the unknown.
+1574|Intuition|The ability to understand something instinctively.|Her intuition guided her to the right decision.
+1575|Intuiting|Perceiving or knowing by intuition.|Intuiting the answer without calculation.
+1576|Iterate|To perform or utter repeatedly.|Iterate the process until convergence.
+1577|Laconic|Using few words; concise.|His laconic reply was "Yes."
+1578|Leverage|Use something to maximum advantage.|Leverage skills for career advancement.
+1579|Lucid|Clear and easily understood.|Lucid explanation of the theory.
+1580|Locus|A particular position or place.|The locus of control in psychology.
+1581|Luminous|Emitting light; bright.|Luminous stars in the night sky.
+1582|Macrocosm|The whole of a complex structure; universe.|The macrocosm reflects the microcosm.
+1583|Mandate|An official order or commission.|The mandate to govern from elections.
+1584|Megalomania|Obsession with power or grandeur.|Dictator's megalomania led to downfall.
+1585|Metanoia|Change in one's way of life or thinking.|Metanoia after a life crisis.
+1586|Microcosm|A small representative system.|The classroom as a microcosm of society.
+1587|Mindful|Aware and attentive to the present.|Mindful breathing reduces stress.
+1588|Minimalism|Style emphasizing simplicity.|Minimalism in art and design.
+1589|Modality|A particular mode or form.|Sensory modality like visual.
+1590|Mutation|Change or alteration, especially genetic.|Gene mutation causes variation.
+1591|Mysticism|Spiritual apprehension of truths beyond intellect.|Mysticism in religious experiences.
+1592|Nascent|Just coming into existence.|Nascent industry in technology.
+1593|Neuroplasticity|Brain's ability to reorganize itself.|Neuroplasticity enables learning.
+1594|Nescient|Lacking knowledge; ignorant.|Nescient about foreign cultures.
+1595|Luminescence|Emission of light without heat.|Luminescence of glowworms.
+1596|Obfuscate|To make obscure or unclear.|Obfuscate the truth with lies.
+1597|Oblique|Indirect or slanting.|Oblique reference to the issue.
+1598|Obsequious|Overly obedient or attentive.|Obsequious servant to the king.
+1599|Oddity|Strange or peculiar thing.|The oddity of the sculpture intrigued viewers.
+1600|Oligarchy|Government by a small group.|Oligarchy in ancient city-states.
+1601|Ontology|Study of being or existence.|Ontology in philosophy.
+1602|Optimize|Make as effective as possible.|Optimize code for performance.
+1603|Oscillation|Regular variation or swinging.|Pendulum oscillation in clocks.
+1604|Overture|Introduction or proposal.|Overture to peace negotiations.
+1605|Ownership|State of possessing something.|Ownership of the property.
+1606|Paradox|Seemingly contradictory statement.|The paradox of thrift in economics.
+1607|Perennial|Lasting for a long time.|Perennial plants return yearly.
+1608|Pernicious|Harmful in a subtle way.|Pernicious effects of pollution.
+1609|Picturesque|Visually attractive.|Picturesque village in the hills.
+1610|Pivot|Central point; to turn or change direction.|Pivot the strategy mid-project.
+1611|Pivotal|Of crucial importance.|Pivotal role in the success.
+1612|Polarization|Division into two opposing groups.|Political polarization in debates.
+1613|Antithesis|The direct contrast of opposing ideas in balanced form.|Freedom versus control.
+1614|Anomie|A breakdown of social norms and values.|Rapid change caused anomie.
+1615|Anonymity|The state of being unidentified or unknown.|Online anonymity protects privacy.
+1616|Archetype|A universally recognized model or pattern.|The hero is an archetype.
+1617|Assiduous|Showing persistent effort and care.|An assiduous researcher.
+1618|Authoritarianism|A system enforcing strict obedience to authority.|Authoritarianism suppresses dissent.
+1619|Catharsis|Emotional release leading to relief or renewal.|The tragedy provided catharsis.
+1620|Catalyst|Something that accelerates change without being consumed.|The speech was a catalyst.
+1621|Clientelism|Exchange of favors for political support.|Clientelism undermines institutions.
+1622|Cognitive dissonance|Psychological discomfort from holding conflicting beliefs.|Evidence caused cognitive dissonance.
+1623|Coincidence|An occurrence without apparent causal connection.|A strange coincidence occurred.
+1624|Communion|Shared participation or mutual belonging.|A sense of communion emerged.
+1625|Concord|Agreement or harmony between parties.|The treaty restored concord.
+1626|Concordat|A formal agreement between church and state.|The concordat defined authority.
+1627|Countervail|To offset or counterbalance an effect.|Costs countervail benefits.
+1628|Cultivate|To deliberately develop or foster growth.|Cultivate critical thinking.
+1629|Cusp|A point of sudden transition or sharp change.|At the cusp of discovery.
+1630|Deception|Intentional misleading or false representation.|The act involved deception.
+1631|Denotation|The literal, dictionary meaning of a word.|Snake denotes a reptile.
+1632|Dialectic|Reasoned exchange of opposing ideas to reach insight.|Dialectic refines truth.
+1633|Dichotomy|Division into two opposing or contrasting parts.|False dichotomy misleads.
+1634|Disseminate|To spread widely or distribute broadly.|Disseminate information.
+1635|Dissonance|Lack of harmony or agreement.|Moral dissonance emerged.
+1636|Efficacy|The capacity to produce an intended effect.|The treatment showed efficacy.
+1637|Embody|To give concrete form to an abstract idea.|She embodied resilience.
+1638|Enmity|Deep-seated hostility or hatred.|Longstanding enmity persisted.
+1639|Endurance|The ability to withstand prolonged hardship.|Marathon tests endurance.
+1640|Ennui|A feeling of listlessness or boredom.|Routine bred ennui.
+1641|Ephemeral|Lasting for a very short time.|An ephemeral moment.
+1642|Epiphenomenon|A secondary effect lacking causal influence.|Consciousness as epiphenomenon.
+1643|Equilibrium|A state of balance with no net change.|System reached equilibrium.
+1644|Equivocate|To use ambiguous language to avoid commitment.|He equivocated deliberately.
+1645|Eternal|Endless or timeless.|Eternal truths.
+1646|Evidence|Information supporting a claim or belief.|Data served as evidence.
+1647|Exploit|To make use of something, often opportunistically.|Exploit a weakness.
+1648|Factionalism|Division into opposing groups within a system.|Factionalism weakened unity.
+1649|Fortitude|Strength of mind under adversity.|She showed fortitude.
+1650|Fractal|A self-similar structure across scales.|Coastlines are fractal.
+1651|Gradient|A rate of change across space or variables.|Steep gradient detected.
+1652|Heuristic|A practical rule-of-thumb for problem solving.|Heuristics speed decisions.
+1653|Holistic|Considering a system as an integrated whole.|Holistic analysis matters.
+1654|Ineffable|Too profound to express in words.|Ineffable beauty.
+1655|Inchoate|Only partially formed or developed.|An inchoate idea.
+1656|Induction|Reasoning from specific instances to general principles.|Scientific induction generalizes patterns.
+1657|Abstraction|Process of considering something independently of its associations or attributes.|Abstraction in art simplifies forms.
+1658|Generalization|Broad statement or concept covering multiple instances.|Generalization from data to theory.
+1659|Analogy|Comparison between two things for explanation.|Life is like a box of chocolates analogy.
+1660|Metaphor|Figure of speech implying comparison.|Time is a thief metaphor.
+1661|Simile|Comparison using like or as.|As brave as a lion simile.
+1662|Introspection|Examination of one's own mental processes.|Introspection reveals biases.
+1663|Mindfulness|Awareness of the present moment.|Mindfulness eases anxiety.
+1664|Contemplation|Deep reflective thought.|Contemplation of life's meaning.
+1665|Reflection|Serious thought or consideration.|Reflection on past experiences.
+1666|Enlightenment|State of gaining spiritual insight.|Buddhist enlightenment through meditation.
+1667|Wisdom|Ability to make sound judgments.|Wisdom comes with age.
+1668|Discernment|Ability to judge well.|Discernment in choosing friends.
+1669|Apperception|Mental process of understanding new ideas via past experiences.|Apperception integrates knowledge.
+1670|Noesis|Pure intellectual apprehension.|Noesis in philosophical cognition.
+1671|Intuition|Immediate understanding without reasoning.|Intuition warned of danger.
+1672|Apophenia|Seeing patterns in random data.|Apophenia in conspiracy theories.
+1673|Pareidolia|Perceiving familiar patterns in stimuli.|Pareidolia sees faces in clouds.
+1674|Gestalt|Organized whole perceived as more than parts.|Gestalt psychology studies perception.
+1675|Synchronicity|Meaningful coincidences.|Synchronicity in chance meetings.
+1676|Serendipity|Fortunate accidental discovery.|Serendipity in finding penicillin.
+1677|Epiphany|Sudden realization.|Epiphany solved the puzzle.
+1678|Revelation|Surprising disclosure of information.|Biblical revelation to prophets.
+1679|Acumen|Keen insight.|Business acumen drives success.
+1680|Sagacity|Wise judgment.|Sagacity in leadership.
+1681|Perspicacity|Shrewdness in understanding.|Perspicacity detects lies.
+1682|Foresight|Ability to predict future needs.|Foresight in planning.
+1683|Hindsight|Understanding after the event.|Hindsight is 20/20.
+1684|Pattern|Repeated decorative design or arrangement.|Pattern in data analysis.
+1685|Correlation|Mutual relationship between variables.|Correlation does not imply causation.
+1686|Causation|Relationship where one event causes another.|Smoking causation of lung cancer.
+1687|Anomalous|Deviating from the norm.|Anomalous weather patterns.
+1688|Symbiote|Organism in symbiotic relationship.|Clownfish and anemone symbiote.
+1689|Derivate|Something derived; in math, derivative.|Derivate function in calculus.
+1690|Truncate|Shorten by cutting off.|Truncate the decimal.
+1691|Betrothed|Engaged to be married.|Betrothed couple plans wedding.
+1692|Hedonistic|Pursuing pleasure.|Hedonistic pursuit of luxury.
+1693|Eloquent|Fluent and persuasive in speaking.|Eloquent speech captivated audience.
+1694|Abstract|Existing in thought; not concrete.|Abstract concept of justice.
+1695|Snide|Derogatory in a sly manner.|Snide comment about work.
+1696|Calibrate|Adjust precisely.|Calibrate the instrument.
+1697|Constricted|Tightened or restricted.|Constricted blood vessels.
+1698|Concentric|Having a common center.|Concentric circles.
+1699|Subservient|Prepared to obey others unquestioningly.|Subservient attitude to authority.
+1700|Pedagogical|Relating to teaching.|Pedagogical methods in education.
+1701|Transactional|Relating to exchange or business.|Transactional relationship in sales.
+1702|Lithe|Thin, supple, and graceful.|Lithe dancer on stage.
+1703|Absorbed|Deeply engrossed.|Absorbed in reading.
+1704|Adrenergic|Relating to adrenaline.|Adrenergic response to stress.
+1705|Volatile|Liable to change rapidly.|Volatile market fluctuations.
+1706|Turbulent|Characterized by conflict or disorder.|Turbulent times in history.
+1707|Fractionation|Separation into fractions.|Fractionation in distillation.
+1708|Prerogative|An exclusive right or privilege held by an authority.|Executive prerogative was exercised.
+1709|Pretext|A false or superficial reason used to justify action.|War was declared on a pretext.
+1710|Predetermination|The belief that outcomes are fixed in advance.|Fate implied predetermination.
+1711|Proclivity|A natural inclination or tendency.|He had a proclivity for risk.
+1712|Profane|Showing disrespect toward sacred things; irreverent.|Profane language offended listeners.
+1713|Preamble|An introductory statement explaining purpose.|The preamble outlines principles.
+1714|Redoubt|A strong defensive position or refuge.|The fortress served as a redoubt.
+1715|Redundancy|Duplication beyond necessity for reliability.|System redundancy prevented failure.
+1716|Relativity|The dependence of measurements on frame of reference.|Relativity altered physics.
+1717|Repository|A centralized place for storage or management.|The code repository stores versions.
+1718|Resonance|Amplification when frequencies align.|Emotional resonance moved audiences.
+1719|Revelation|A sudden disclosure or insight.|The discovery was a revelation.
+1720|Reverie|A state of dreamy contemplation.|He drifted into reverie.
+1721|Revenge|Retaliatory harm for a perceived wrong.|He sought revenge.
+1722|Sacrosanct|Regarded as sacred and inviolable.|Human rights are sacrosanct.
+1723|Sonder|The realization that others have rich inner lives.|Sonder struck in the crowd.
+1724|Solidarity|Unity based on shared interests or purpose.|Workers showed solidarity.
+1725|Speculative|Based on conjecture rather than certainty.|Speculative theory lacked proof.
+1726|Stimuli|Inputs that provoke responses.|Loud noises are stimuli.
+1727|Stimulus|A specific input causing response.|Light acts as a stimulus.
+1728|Sustainable|Capable of long-term continuation without depletion.|Sustainable practices conserve resources.
+1729|Surreal|Dreamlike or beyond ordinary reality.|A surreal scene unfolded.
+1730|Symbiosis|A close, long-term interaction between organisms.|Coral symbiosis sustains reefs.
+1731|Synergy|Combined effect greater than individual contributions.|Team synergy boosted results.
+1732|Tenacity|Persistent determination despite difficulty.|Her tenacity prevailed.
+1733|Theory|A coherent explanatory framework supported by evidence.|Evolutionary theory explains diversity.
+1734|Void|An absence or empty state.|A void remained.
+1735|Zeitgeist|The defining spirit of an era.|The art reflected the zeitgeist.
+1736|Inundated|Overwhelmed or flooded with something.|He was inundated with messages.
+1737|Diplomacy|The management of relations through negotiation.|Diplomacy avoided conflict.
+1738|Solipsism|The belief that only one’s own mind is certain to exist.|Solipsism denies external reality.
+1739|Phenomenology|The study of conscious experience as lived.|Phenomenology examines perception.
+1740|Hermeneutics|The theory of interpretation, especially of texts.|Hermeneutics guides analysis.
+1741|Existentialism|Philosophy emphasizing freedom and responsibility.|Existentialism confronts meaning.
+1742|Absurdism|The view that humans seek meaning in a meaningless world.|Absurdism embraces contradiction.
+1743|Pragmatism|Judging ideas by practical consequences.|Pragmatism favors results.
+1744|Rationalism|Knowledge derived primarily from reason.|Rationalism trusts logic.
+1745|Empiricism|Knowledge derived from sensory experience.|Empiricism values observation.
+1746|Skepticism|Systematic doubt toward unverified claims.|Scientific skepticism tests ideas.
+1747|Relativism|Truth or morality as context-dependent.|Moral relativism varies cultures.
+1748|Dualism|The belief in two fundamental kinds of reality.|Mind-body dualism.
+1749|Monism|The belief in a single underlying substance.|Physical monism dominates science.
+1750|Determinism|All events caused by prior conditions.|Determinism denies randomness.
+1751|Compatibilism|The view that free will and determinism coexist.|Compatibilism preserves responsibility.
+1752|Qualia|Subjective qualities of experience.|Color sensations are qualia.
+1753|Intentionality|The mind’s capacity to be about something.|Beliefs exhibit intentionality.
+1754|Reductionism|Explaining wholes by their parts.|Reductionism simplifies biology.
+1755|Holism|Understanding systems as integrated wholes.|Holism resists fragmentation.
+1756|Emergence|Complex properties arising from simpler interactions.|Consciousness shows emergence.
+1757|Causality|The relationship between cause and effect.|Causality underlies science.
+1758|Paradigm|A guiding framework of thought or practice.|The paradigm shifted.
+1759|Schema|A mental framework organizing knowledge.|Schemas shape understanding.
+1760|Perception|Interpretation of sensory information.|Perception constructs reality.
+1761|Illusion|A false or misleading perception.|The illusion deceived observers.
+1762|Delusion|A fixed false belief resistant to evidence.|The delusion persisted.
+1763|Cognition|The processes of knowing and understanding.|Cognition enables reasoning.
+1764|Inference|A conclusion drawn from evidence and reasoning.|She made a logical inference.
+1765|Quintessential|Most typical or representative.|Quintessential example of bravery.
+1766|Stagnation|Lack of activity, growth, or development.|Economic stagnation slows progress.
+1767|Frugality|Quality of being economical with resources.|Frugality helps save for emergencies.
+1768|Nuanced|Characterized by subtle differences.|Nuanced view of the issue.
+1769|Instinctively|Done without conscious thought.|She instinctively ducked the ball.
+1770|Susceptibility|State of being easily affected.|Susceptibility to colds in winter.
+1771|Dissemination|Act of spreading widely.|Dissemination of information online.
+1772|Conviction|Firmly held belief.|Conviction in his innocence.
+1773|Testament|Proof or tribute.|Testament to her hard work.
+1774|Propagation|Spreading or reproduction.|Propagation of plants by cuttings.
+1775|Banal|Lacking originality; trite.|Banal conversation at parties.
+1776|Stupor|State of near-unconsciousness.|Stupor from excessive drinking.
+1777|Necrotic|Relating to tissue death.|Necrotic wound requires treatment.
+1778|Egregious|Outstandingly bad.|Egregious error in judgment.
+1779|Anaerobic|Without oxygen.|Anaerobic exercise like sprinting.
+1780|Peristalsis|Wave-like contractions moving food.|Peristalsis in the digestive tract.
+1781|Bioreactor|Vessel for biological processes.|Bioreactor for culturing cells.
+1782|Contaminated|Made impure by pollutants.|Contaminated water causes illness.
+1783|Hinder|Create difficulties; obstruct.|Bad weather can hinder travel.
+1784|Compatriots|Fellow citizens or colleagues.|Compatriots in the struggle.
+1785|Opulent|Luxuriously rich.|Opulent mansion with gold fixtures.
+1786|Ambiguous|Open to multiple interpretations.|Ambiguous statement confused everyone.
+1787|Explicit|Stated clearly and in detail.|Explicit instructions for assembly.
+1788|Fiduciary|Involving trust, especially financial.|Fiduciary duty to clients.
+1789|Succinct|Briefly and clearly expressed.|Succinct summary of the report.
+1790|Purchase|Acquire by payment.|Purchase a new car.
+1791|Ossify|Turn into bone; become rigid.|Ossify views with age.
+1792|Presupposition|Assumption underlying a statement.|Presupposition that all agree.
+1793|Natalism|Policy promoting high birth rates.|Pronatalism to boost population.
+1794|Satisfaction|Fulfillment of needs.|Satisfaction from a job well done.
+1795|Nihilistic|Rejecting moral principles.|Nihilistic outlook on life.
+1796|Compulsion|Irresistible urge.|Compulsion to check locks.
+1797|Axiomatic|Self-evident or unquestionable.|Axiomatic truth in mathematics.
+1798|Supposition|Uncertain belief.|Supposition without evidence.
+1799|Abide|Accept or act in accordance with.|Abide by the decision.
+1800|Esoteric|Intended for a small group.|Esoteric knowledge in occult.
+1801|Protracted|Lasting longer than expected.|Protracted negotiations.
+1802|Ingratiate|Gain favor by flattery.|Ingratiate himself with the boss.
+1803|Polemical|Controversial and argumentative.|Polemical debate on policy.
+1804|Vicissitude|Change of circumstances.|Vicissitude of fortune in life.
+1805|Countervail|To offset or oppose with equal force.|Laws countervail corporate greed.
+1806|Cultivate|To foster growth or development.|Cultivate good habits early.
+1807|Cusp|Point of transition between states.|On the cusp of discovery.
+1808|Deception|Act of misleading or tricking.|Deception in the scam.
+1809|Denotation|Literal or primary meaning of a word.|Denotation of "cool" is low temperature.
+1810|Dialectic|Method of argument through dialogue.|Hegelian dialectic resolves contradictions.
+1811|Dichotomy|Division into two contrasting parts.|False dichotomy in choices.
+1812|Dissonance|Lack of harmony; conflict.|Cognitive dissonance from beliefs.
+1813|Efficacy|Ability to produce desired result.|Vaccine efficacy against disease.
+1814|Embody|Represent in bodily form.|Embody the spirit of innovation.
+1815|Enmity|Hostile feeling or state.|Enmity between rivals.
+1816|Endurance|Ability to withstand hardship.|Endurance in marathon running.
+1817|Ennui|Feeling of weariness and dissatisfaction.|Ennui from routine life.
+1818|Ephemeral|Lasting for a very short time.|Ephemeral joy of fireworks.
+1819|Epiphenomenon|Secondary effect accompanying a primary one.|Consciousness as epiphenomenon.
+1820|Equilibrium|State of balance.|Market equilibrium in economics.
+1821|Equivocate|Use ambiguous language to conceal truth.|Politicians equivocate on issues.
+1822|Eternal|Lasting forever.|Eternal flame memorial.
+1823|Evidence|Information indicating truth.|Scientific evidence supports theory.
+1824|Exploit|Make full use of; take advantage.|Exploit resources sustainably.
+1825|Factionalism|Division into competing groups.|Factionalism weakens parties.
+1826|Fortitude|Courage in pain or adversity.|Fortitude during illness.
+1827|Fractal|Geometric figure with self-similar patterns.|Snowflake as a fractal.
+1828|Gradient|Rate of change; slope.|Color gradient in design.
+1829|Heuristic|Practical method for problem-solving.|Trial-and-error heuristic.
+1830|Holistic|Considering the whole rather than parts.|Holistic approach to health.
+1831|Ineffable|Too great to be expressed.|Ineffable beauty of nature.
+1832|Inchoate|Just begun; not fully formed.|Inchoate ideas in brainstorming.
+1833|Induction|Process of reasoning from specific to general.|Scientific induction from observations.
+1834|Innate|Inborn; natural.|Innate fear of heights.
+1835|Inertia|Tendency to resist change.|Physical inertia of objects.
+1836|Intellect|Faculty of reasoning.|Sharp intellect in debates.
+1837|Intrepid|Fearless; adventurous.|Intrepid explorer in jungles.
+1838|Intuition|Direct perception without reasoning.|Intuition guides quick decisions.
+1839|Intuiting|Knowing by intuition.|Intuiting the solution instantly.
+1840|Iterate|Repeat a process.|Iterate designs for improvement.
+1841|Capricious|Prone to sudden, unpredictable changes.|Capricious weather ruined plans.
+1842|Equivocal|Open to multiple interpretations; deliberately ambiguous.|His answer was equivocal.
+1843|Sardonically|In a grimly mocking or cynical manner.|She smiled sardonically.
+1844|Indicative|Serving as a sign or strong suggestion.|Results are indicative of success.
+1845|Provocative|Intended to provoke reaction or thought.|A provocative question stirred debate.
+1846|Exuberant|Joyfully energetic or enthusiastic.|An exuberant celebration followed.
+1847|Irrevocable|Impossible to undo or reverse.|The decision was irrevocable.
+1848|Impalpable|Impossible to perceive by touch or senses.|An impalpable tension filled the room.
+1849|Chimeric|Composed of disparate or mixed elements.|A chimeric identity emerged.
+1850|Erroneous|Incorrect due to error or false reasoning.|An erroneous assumption misled them.
+1851|Illusive|Deceptively appearing real or attainable.|An illusive victory faded.
+1852|Conundrum|A difficult or perplexing problem.|A moral conundrum arose.
+1853|Cerebral|Intellectual rather than emotional.|A cerebral discussion followed.
+1854|Ambivalent|Having conflicting feelings simultaneously.|She felt ambivalent about leaving.
+1855|Draconian|Excessively harsh or severe.|Draconian laws punished dissent.
+1856|Annuity|A fixed sum paid regularly over time.|He purchased an annuity.
+1857|Oracle|A source of authoritative guidance or prediction.|The model served as an oracle.
+1858|Non corporeal|Lacking physical substance; intangible.|A non corporeal presence was sensed.
+1859|Spectacle|A visually striking or dramatic display.|Fireworks formed a spectacle.
+1860|Paradigm|A guiding framework or model of thought.|The paradigm shifted.
+1861|Incant|To chant or recite words ritualistically.|He incanted the spell.
+1862|Perfunctory|Carried out with minimal effort or interest.|A perfunctory nod followed.
+1863|Arduous|Requiring great effort or endurance.|An arduous climb exhausted them.
+1864|Infatuation|Intense but short-lived passion.|Infatuation faded quickly.
+1865|Aberrant|Deviating from the normal or expected.|Aberrant behavior alarmed others.
+1866|Absolution|Formal release from guilt or blame.|He sought absolution.
+1867|Agency|The capacity to act independently.|Personal agency empowers choice.
+1868|Alchemy|Tradition seeking transformation of matter or self.|Alchemy symbolized inner change.
+1869|Alacrity|Brisk and eager readiness.|She agreed with alacrity.
+1870|Algorithm|A finite, step-by-step problem-solving procedure.|A sorting algorithm.
+1871|Altruism|Selfless concern for others’ well-being.|Altruism motivated her actions.
+1872|Ambiguity|The presence of multiple meanings.|The phrase contained ambiguity.
+1873|Anachronism|Something out of its proper historical time.|A watch in ancient Rome.
+1874|Anodyne|Soothing or relieving discomfort.|An anodyne remark eased tension.
+1875|Antithesis|Direct contrast of opposing ideas.|Order versus chaos.
+1876|Anomie|Breakdown of social norms or values.|Economic collapse caused anomie.
+1877|Anonymity|The state of being unidentified.|Anonymity protects whistleblowers.
+1878|Archetype|A universal symbolic pattern or model.|The hero archetype.
+1879|Assiduous|Showing persistent diligence and care.|An assiduous student excelled.
+1880|Authoritarianism|Governance enforcing strict obedience to authority.|Authoritarianism suppresses freedom.
+1881|Catharsis|Emotional release leading to renewal.|The tragedy provided catharsis.
+1882|Catalyst|Something that accelerates change without being consumed.|The event was a catalyst.
+1883|Clientelism|Exchange of favors for political support.|Clientelism undermines fairness.
+1884|Cognitive dissonance|Psychological discomfort from conflicting beliefs.|Facts caused cognitive dissonance.
+1885|Coincidence|An event without apparent causal link.|A strange coincidence occurred.
+1886|Communion|Shared participation or mutual belonging.|A sense of communion formed.
+1887|Concord|Agreement or harmony.|The treaty restored concord.
+1888|Concordat|A formal agreement between church and state.|The concordat defined authority.
+1889|Pretext|False reason disguising true motives.|He used illness as a pretext to leave.
+1890|Predetermination|Decision made in advance.|Genetic predetermination of traits.
+1891|Proclivity|Natural inclination toward something.|Proclivity for sweets.
+1892|Profane|Irreverent or blasphemous.|Profane language in the church.
+1893|Preamble|Introductory statement.|Preamble to the Constitution.
+1894|Redoubt|Fortified place; stronghold.|Last redoubt in the battle.
+1895|Redundancy|Superfluous repetition.|Redundancy in the report.
+1896|Relativity|Dependence on viewpoint; Einstein's theory.|Theory of relativity explains gravity.
+1897|Repository|Place where things are stored.|Code repository on GitHub.
+1898|Resonance|Vibration sympathy; emotional echo.|Resonance in the guitar strings.
+1899|Revelation|Surprising disclosure.|Revelation shocked the audience.
+1900|Reverie|Daydream or musing.|Lost in reverie by the window.
+1901|Revenge|Retaliation for wrong.|Seek revenge for betrayal.
+1902|Sacrosanct|Regarded as sacred; inviolable.|Sacrosanct family traditions.
+1903|Sonder|Realization others have complex lives.|Sonder hit while commuting.
+1904|Solidarity|Unity of feeling or action.|Solidarity among workers.
+1905|Speculative|Based on conjecture; risky.|Speculative investment in stocks.
+1906|Stimuli|Things that provoke response.|Sensory stimuli affect behavior.
+1907|Stimulus|Something causing response.|Economic stimulus package.
+1908|Sustainable|Able to be maintained long-term.|Sustainable farming practices.
+1909|Surreal|Dreamlike; bizarre.|Surreal landscape in the painting.
+1910|Symbiosis|Mutually beneficial relationship.|Symbiosis between clownfish and anemone.
+1911|Synergy|Combined action greater than parts.|Team synergy boosts productivity.
+1912|Tenacity|Persistent determination.|Tenacity in pursuing goals.
+1913|Theory|Systematic explanation.|Evolution theory by Darwin.
+1914|Void|Empty space; invalid.|Void of emotion in his eyes.
+1915|Zeitgeist|Spirit of the age.|Zeitgeist of innovation.
+1916|Inundated|Overwhelmed by something.|Inundated with requests.
+1917|Diplomacy|Art of handling relations.|International diplomacy prevents war.
+1918|Pock|Small pit or scar.|Pock from acne on skin.
+1919|Frock|Woman's dress; garment.|Summer frock for the party.
+1920|Proc|Abbreviation for procedure.|Follow the proc for safety.
+1921|Ingang|Entrance or ingress (possibly Dutch or archaic).|The ingang to the cave was narrow.
+1922|Gnant|Likely a misspelling or variant; possibly "gnat," a small flying insect.|(Assuming gnat) Gnant buzzing around the light.
+1923|Gannet|Large seabird known for diving into water to catch fish.|Gannet colony on the cliffs.
+1924|Incant|To chant or utter words in a magical spell.|Incant the ancient runes.
+1925|Slew|Killed a large number; turned sharply.|He slew the dragon; the car slew around the corner.
+1926|Laconic|Using very few words.|A laconic reply ended the discussion.
+1927|Leverage|Strategic advantage or applied force to gain effect.|He used leverage in negotiations.
+1928|Lucid|Clear in thought, expression, or perception.|A lucid explanation clarified everything.
+1929|Locus|A specific position or place, especially in a system.|The gene’s locus was identified.
+1930|Luminous|Emitting or reflecting light.|Luminous clouds glowed at dusk.
+1931|Macrocosm|A large-scale system reflecting smaller structures.|Society as a macrocosm.
+1932|Mandate|Authoritative command or formal authorization.|The election granted a mandate.
+1933|Megalomania|Delusional obsession with power or greatness.|Megalomania distorted judgment.
+1934|Metanoia|A profound transformation of mind or values.|Failure sparked metanoia.
+1935|Microcosm|A small system representing a larger whole.|The classroom was a microcosm.
+1936|Mindful|Attentive and aware of the present moment.|Mindful breathing calmed her.
+1937|Minimalism|Emphasis on simplicity and essentials.|Minimalism favors clarity.
+1938|Modality|A mode or manner of expression or experience.|Visual modality dominates perception.
+1939|Mutation|A change in genetic material or structure.|The mutation altered function.
+1940|Mysticism|Belief in direct experiential knowledge of the transcendent.|Mysticism seeks union with the divine.
+1941|Nascent|Beginning to develop or emerge.|A nascent movement formed.
+1942|Neuroplasticity|The brain’s ability to reorganize and adapt.|Neuroplasticity enables learning.
+1943|Nescient|Lacking knowledge or awareness.|A nescient observer misjudged events.
+1944|Luminescence|Light emission not caused by heat.|Bioluminescence is luminescence.
+1945|Obfuscate|To deliberately make something unclear.|The explanation obfuscated the truth.
+1946|Oblique|Indirect or neither parallel nor perpendicular.|An oblique reference confused readers.
+1947|Obsequious|Excessively eager to please or flatter.|An obsequious subordinate agreed.
+1948|Oddity|Something unusual or out of place.|The artifact was an oddity.
+1949|Oligarchy|Rule by a small, powerful group.|Economic oligarchy emerged.
+1950|Ontology|The philosophical study of being and existence.|Ontology asks what exists.
+1951|Optimize|To adjust for maximum efficiency or performance.|Optimize the algorithm.
+1952|Oscillation|Regular variation around a central value.|Pendulum oscillation repeats.
+1953|Overture|An introductory act or gesture.|Peace overtures followed.
+1954|Ownership|Legal possession or control.|Ownership conveys rights.
+1955|Paradox|A statement that seems contradictory yet true.|Freedom through discipline is a paradox.
+1956|Perennial|Lasting indefinitely or recurring regularly.|Perennial questions persist.
+1957|Pernicious|Highly harmful, often subtly so.|Pernicious effects spread slowly.
+1958|Picturesque|Visually charming or scenic.|A picturesque village.
+1959|Pivot|A central point on which change depends.|The vote was the pivot.
+1960|Pivotal|Of critical importance.|A pivotal decision changed outcomes.
+1961|Polarization|Division into opposing extremes or orientations.|Political polarization intensified.
+1962|Prerogative|An exclusive right or privilege.|Executive prerogative applied.
+1963|Epistemic status|Goodhart’s law Map–territory distinction Meta-analysis Meta-ethics Second-order effects Steelman principle Tragedy of the commons Unknown unknowns Ambiguation Connotation drift Discourse Framing Gricean maxims Implicature Lexical gap Narrative fallacy Pragmatics Rhetorical framing Semantics shift Subtext Boundary conditions Chaos Constraint satisfaction Emergent behavior Equifinality Feedback loop Nonlinearity Phase transition Robustness Sensitivity analysis Stability Systems thinking Tipping point Affect Alexithymia Anxiety sensitivity Catharsis myth Cognitive reframing Emotional granularity Habituation Internal locus of control Motivation Resilience Rumination Self-efficacy Stress inoculation Accountability Agency problem Authority Collective action Consent Externality Governance Hegemony Institutional capture Legitimacy Normativity Power dynamics Reciprocity Social contract Structural violence Abductive reasoning Bayes factor Coherence Deductive validity Epistemology Falsifiability Inference engine Justification Likelihood ratio Necessary condition Sufficient condition Soundness Underdetermination Validity Abstraction Affordance Anchoring Attribution Availability bias Belief Calibration Cognitive load Confirmation bias Contextualization Deliberation Embodiment Epistemic humility Error correction Heuristic drift Mental model Metacognition Priming Salience Sensemaking Working memory Attentional control Belief revision Cognitive dissonance reduction Cognitive flexibility Conceptual blending Epistemic vigilance Error propagation Framing effects Intellectual humility Metacognitive awareness Overconfidence bias Predictive processing Self-deception Signal detection Base rate Bayesian updating Burden of proof Calibration curve Conditional independence Counterfactual Decision boundary Likelihood space Prior probability Posterior probability Rational agent Statistical power Attractor Basin of attraction Complex adaptive system Constraint optimization Coupling Degeneracy Feedback inhibition Homeostasis Path dependence Self-organization Stochastic resonance Asymmetric power Bureaucratic inertia Collective identity Elite capture Institutional legitimacy Norm enforcement Patronage Political economy Regulatory capture Social cohesion Affective forecasting Approach–avoidance conflict Cognitive appraisal Delayed gratification Emotional regulation Incentive salience Motivated reasoning Self-concept Value alignment Ambiguity tolerance Context collapse Deixis Discourse analysis Hermeneutic circle Metaphorical framing Narrative compression Semantic drift Speech act Abstraction layer Decision fatigue Goodhart effect Information asymmetry Meta-rationality Second-order incentives Selection effects Winner’s curse Epistemic closure Epistemic uncertainty Justified belief Knowledge claim Reliability Truth conditions Underdetermination Verification Warrant Availability cascade Belief perseverance Confabulation False consensus effect Fundamental attribution error Illusory correlation Motivated cognition Post hoc rationalization Scope insensitivity Causal chain Downstream effects Equilibrium shift Fragility Hysteresis Interdependence Nonlinear response Positive feedback Systemic risk Authoritative legitimacy Centralization Decentralization Factional alignment Ideological capture Institutional decay Moral hazard Rent-seeking Soft power Authenticity Boundary setting Identity formation Internal narrative Locus of control Self-authorship Self-concept clarity Values hierarchy Burden shifting Definitional control Dogwhistle Euphemistic framing Motte-and-bailey Persuasive asymmetry Rhetorical escalation Semantic narrowing Cost–benefit tradeoff Decision paralysis Expected value Option value Risk tolerance Strategic foresight Tactical concession Time inconsistency Abstraction debt Conceptual hygiene Frame invariance Model mismatch Overfitting Predictive validity Signal-to-noise ratio Alethic Credence Defeasible Epistemic injustice Fallibilism Gettier problem Justificatory chain Normative epistemology Truthmaker Argument schema Burden asymmetry Category error Conceptual entailment Defeater Dialectical pressure Inferential gap Logical scope Presupposition failure Control parameter Critical threshold Damping Degenerate solution Emergent constraint Entrainment Phase space Resilience engineering Authoritative narrative Compliance regime Legibility Norm internalization Pathologization Procedural legitimacy Rule enforcement Symbolic power Affective valence Cognitive fusion Demand characteristics Egocentric bias Learned helplessness Mental simulation Self-signaling Status anxiety Boundary policing Concept creep Deflationary language Interpretive charity Metalinguistic negotiation Narrative coherence Pragmatic implicature Decision dominance Exploration–exploitation tradeoff Local optimum Pareto efficiency Path optimization Slack Strategic optionality Abstraction leak Conceptual overfitting Epistemic capture Model collapse Reference class Second-order ignorance Narrative Fallacy Proxy Threshold Volatility Equilibrium Disruption Incentive Constraint Arbitrage Diversification Momentum Utility Marginal Regression Variance Outlier Baseline Benchmark Catalyst Diffusion Ecosystem Framework Governance Hierarchy Ideology Innovation Kinetic Lattice Modular Nexus Ontology Pluralism Quantum Rhetoric Stochastic Topology Utilitarian Vector Xenophobia Yield Alethic modality Anti-realism Conceptual scheme Epistemic opacity Foundationalism Internalism Externalism Ontological commitment Pluralism Supervenience Abstraction boundary Model idealization Isomorphism Homomorphism Reference frame Semantic entailment Underspecification Well-formedness Adaptive landscape Control loop Distributed cognition Edge case Equilibrium selection Phase locking Robust control Sensitivity regime Administrative burden Consensus formation Cultural capital Elite signaling Institutional trust Norm cascade Political legitimacy Social stratification Affective forecasting error Attentional blindness Cognitive load theory Emotional contagion Identity threat Intrinsic motivation Narrative identity Self-regulation failure Conceptual metaphor Discursive framing Indexicality Meaning compression Pragmatic saturation Semantic scope creep Anticipatory governance Decision horizon Option fragility Precommitment Risk asymmetry Scenario planning Strategic patience Abstraction pressure Conceptual debt Epistemic blind spot Frame collapse Model drift Unknown constraints Aleatory Analytic Synthetic A posteriori A priori Epistemic warrant Metaphysical necessity Ontic Ontological status Modal realism Bivalence Compositionality Deductive closure Entailment relation Formalism Inference rule Model theory Nonmonotonic reasoning Truth valuation Attractor basin Bottleneck Coarse-graining Constraint propagation Critical mass Decoupling Load-bearing assumption Phase transition System brittleness Authority gradient Collective action problem Coordination failure Institutional inertia Legibility crisis Norm erosion Power asymmetry Principal–agent problem Attributional style Cognitive dissonance management Ego depletion Identity signaling Motivated attention Self-narrative coherence Theory of mind Value conflict Ambiguity exploitation Conceptual slippage Discourse framing Narrative coherence Semantic load Signaling theory Symbolic compression Adversarial dynamics Asymmetric risk Decision surface Exploitability Information bottleneck Option dominance Risk pooling Strategic misalignment Abstraction ceiling Conceptual bottleneck Epistemic overconfidence Frame rigidity Model myopia Second-order blindness Alignment problem Objective function Reward hacking Specification gaming Instrumental convergence Mesa-optimization Outer alignment Inner alignment Interpretability Generalization Distribution shift Out-of-distribution Inductive bias Demarcation problem Explanatory power Predictive adequacy Model pluralism Theory-ladenness Inference to the best explanation Operationalization Measurement error Replicability Reproducibility Antifragility Cascade failure Coupled systems Failure mode Graceful degradation Load shedding Resilience threshold Systemic fragility Tight coupling Narrative control Legibility project Myth-making Overton window Propaganda Sensegiving Soft coercion Symbolic legitimacy Costly signaling Reputation economy Social proof Status competition Virtue signaling Moral licensing Norm compliance Preference falsification Frame dominance Lexical engineering Narrative anchoring Persuasion asymmetry Semantic laundering Taboo tradeoff Commitment device Credible threat Dominant strategy Equilibrium strategy Game-theoretic rationality Iterated interaction Payoff matrix Subgame perfection Conceptual entropy Epistemic decay Model overreach Narrative collapse Ontology mismatch Reality drift Agency emergence Alignment tax Capability overhang Coherence pressure Corrigibility Deceptive alignment Goal misgeneralization Instrumental goals Inner optimizer Interpretability gap Mesa-objective Objective misspecification Optimization pressure Orthogonality thesis Reward misspecification Scalable oversight Specification collapse Value learning Value drift World-model mismatch Asymmetric warfare Battle-space Center of gravity Command and control Counterinsurgency Denial and deception Escalation ladder Force projection Fog of war Gray-zone conflict Hybrid warfare Intelligence fusion Kill chain Operational tempo Psychological operations Rules of engagement Strategic deterrence Strategic depth Threat modeling Alignment failure Anthropic reasoning Civilizational fragility Existential risk Great filter Long-termism Lock-in effect Moral circle expansion Path dependency Pivotal act Runaway dynamics Singleton Tail risk Technological irreversibility Value lock-in X-risk Agency Causality Constraint Emergence Epistemology Inference Model Paradigm Perception Power Signal Tradeoff Abstraction Bias Calibration Equilibrium Framing Heuristic Incentive Nonlinearity Optimization Robustness Cognitive dissonance Delusion Illusion Introspection Metacognition Motivated reasoning Narrative Rationalization Sensemaking Complexity Feedback loop Fragility Path dependence Phase transition Resilience Systemic risk Tipping point Authority Legitimacy Norms Institution Clientelism Factionalism Hegemony Oligarchy Propaganda Existentialism Metaphysics Ontology Qualia Telos Utilitarianism Virtue Zeitgeist Goodhart’s law Map–territory confusion Model collapse Narrative fallacy Overfitting Specification gaming Unknown unknowns Good intentions Moral licensing Means–ends collapse Narrative comfort Optimization overreach Local success / global failure Second-order neglect Coordination illusion Value drift Reality denial Reality Constraint Agency Incentive Power Information Time Risk Tradeoff Irreversibility Epistemic capture Institutional blind spots Narrative substitution Belief ossification Motivated epistemology Prestige bias Consensus illusion Status-driven cognition Legibility bias Knowledge decay Epistemic tragedy Civilizational attractor Irreversibility Lock-in trajectory Catastrophic tail risk Pivotal window Technological overhang Singleton emergence Coordination failure Intergenerational ethics Value drift Terminal value erosion Global catastrophic risk Anthropic shadow Threat surface Adversarial adaptation Strategic surprise Operational security Information dominance Decision superiority Escalation control Preemption Deterrence stability Strategic ambiguity Second-strike capability Attrition warfare Cognitive warfare Narrative battlespace Influence operations Agency boundary Goal-directedness Instrumental rationality Convergent instrumental values Policy optimization World-model compression Latent objective Inner misalignment Deceptive compliance Gradient hacking Reward tampering Optimization daemon Emergent mesa-agent Capability–alignment gap Interpretability ceiling Behavioral generalization Constraint satisfaction Control Feedback Information flow Optimization pressure Path dependence Phase shift Second-order effects Time horizons Agenda setting Boundary drawing Concept legitimization Definitional warfare Framing dominance Lexical capture Narrative enforcement Semantic freezing Symbolic violence Belief hygiene Calibration discipline Cognitive debiasing Epistemic humility Error correction loop Model updating Reality checking Steelman reflex Uncertainty tolerance Astronomical waste Intergenerational harm Moral offsetting Moral uncertainty Option preservation Patient altruism Value uncertainty Future discounting Brittle equilibrium Cascade trigger Collapse dynamics Coordination breakdown Failure amplification Institutional sclerosis Resilience margin Shock absorption System overshoot Tipping cascade Decision irreversibility Exploit window First-mover disadvantage Information asymmetry Option locking Precommitment trap Risk dominance Strategic exposure Terminal downside Uncertainty discounting Adversarial selection Belief laundering Censorship equilibrium Epistemic arms race Information poisoning Narrative capture Perception management Preference falsification Propaganda feedback Reality distortion field Signal jamming Truth decay Weaponized ambiguity Assumption audit Constraint check Failure mode analysis Ground truth Red-team thinking Sanity bound Belief attachment Identity entanglement Motivated blindness Narrative addiction Self-justification loop Status-protective cognition Civilizational inertia Cultural lock-in Demographic momentum Institutional memory loss Long-tail risk Slow catastrophe Trajectory dependence Ethical blind spot Moral contagion Moral licensing Norm inversion Value corrosion Virtue signaling trap Bureaucratic drift Coordination paralysis Diffuse responsibility Goal displacement Institutional momentum Process fetishism Responsibility dilution Adversarial framing Cognitive bait Decoy hypothesis Information flooding Misleading salience Strategic omission Weaponized uncertainty Bottleneck power Chokepoint Control asymmetry Hidden variable Leverage point Structural advantage Surface vs root cause Unseen constraint Variance amplification Commitment lock-in Critical dependency Decision ratchet Escalation trap Irreversible loss Lockstep failure No-return threshold Path entrenchment Terminal commitment Value foreclosure Reality Constraint Time Information Incentive Power Risk Irreversibility Collapse acceleration Runaway feedback Terminal instability Coordination breakdown Final attractor Cognitive triage Error budgeting Focus discipline Information fasting Model pruning Signal prioritization Moral exhaustion Value dilution Purpose drift Symbol–substance split Ethical hollowing Normative fatigue Agenda dominance Norm steering Preference shaping Soft constraint Status enforcement Symbolic alignment Voluntary compliance Knightian uncertainty Model insufficiency Decision under opacity Epistemic fog Unknown constraints Option preservation bias Worst-case anchoring Attention hijacking Cognitive saturation Information asymmetry exploitation Narrative compression Perception funnel Signal drowning Strategic distraction Truth dilution Creeping normality Baseline drift Silent failure Deferred cost Accumulated risk Latency explosion Hidden fragility Stability illusion Debt of neglect Coordination exhaustion Legitimacy decay Narrative fragmentation Institutional hollowing Trust evaporation Assumption invalidation Belief decontamination Calibration maintenance Epistemic restraint Model skepticism Reality anchoring Uncertainty containment Decision horizon collapse Irreversible pathway Option extinction Point-of-no-return dynamics Temporal myopia Value irreversibility Infrastructure control Platform dominance Rule-setting power Standardization capture Structural veto Temporal leverage Auto-propaganda Belief contagion Consensus hallucination Narrative momentum Self-validating falsehood Strategic silence Tacit collusion Epistemic collapse False convergence Knowledge bottleneck Model brittleness Overconfidence plateau Prediction rot Signal inversion Theory ossification Asymmetric downside Catastrophic risk dominance Fail-deadly vs fail-safe Margin of safety Negative convexity Precautionary asymmetry Risk of ruin Tail dominance Worst-case optimization Autocatalytic failure Benign neglect Drift toward failure Emergent dysfunction Failure normalization Fragility accumulation Latent defect Success masking Adversarial misreading Attention collapse Blind-spot amplification False salience Misplaced confidence Threat underestimation Wishful updating Incentive gradient Perverse incentive Reward inversion Signaling equilibrium Status payoff Surface incentive Mission drift Metric fixation Performative compliance Process substitution Symbolic success Target laundering Epistemic saturation Expert overreach Model exhaustion Prediction paralysis Scope blindness Unknown failure mode Deferred reckoning Compounding exposure Crisis latency Decision drag Slow-motion catastrophe Default setting Path shaping Structural privilege Systemic bias Unchosen constraints Assumption surfacing Constraint mapping Failure rehearsal Pre-mortem thinking Redundancy planning Reality stress-testing Reality Constraint Incentive Agency Information Power Time Risk Irreversibility Tradeoff Feedback Emergence Absurdism Aesthetics Alienation Anarchism Anomie Aporia Apriori Authenticity Autonomy Axio Axiology Being Categorical Causality Compatibilism Consequentialism Contingency Cosmology Cynicism Deontology Determinism Dialectic Dualism Empiricism Epistemology Essentialism Ethics Eudaimonia Existentialism Fatalism Hedonism Hermeneutics Humanism Idealism Imperative Indeterminism Intersubjectivity Libertarianism Materialism Metaphysics Monism Nihilism Nominalism Ontology Phenomenology Positivism Pragmatism Rationalism Realism Relativism Skepticism Solipsism Stoicism Teleology Transcendental Utilitarianism Virtue|Moral Hazard
