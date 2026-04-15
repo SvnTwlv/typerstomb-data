@@ -4,11 +4,11 @@
     "name": "Typer 1",
     "createdAt": "2026-03-30T10:58:35.426Z",
     "stats": {
-      "completed": 27,
-      "totalSeconds": 5080,
-      "keypresses": 194239,
-      "mistakes": 13300
+      "completed": 28,
+      "totalSeconds": 5128,
+      "keypresses": 204133,
+      "mistakes": 13992
     },
-    "updatedAt": "2026-04-14T16:05:27.070Z"
+    "updatedAt": "2026-04-15T00:03:14.216Z"
   }
 ]
