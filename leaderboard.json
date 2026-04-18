@@ -16,12 +16,12 @@
     "name": "Typer 2",
     "avatar": null,
     "createdAt": "2026-04-18T06:30:19.722Z",
-    "updatedAt": "2026-04-18T06:30:51.947Z",
+    "updatedAt": "2026-04-18T06:31:21.946Z",
     "stats": {
-      "completed": 2,
-      "totalSeconds": 245.949,
-      "keypresses": 365,
-      "mistakes": 17
+      "completed": 3,
+      "totalSeconds": 275.973,
+      "keypresses": 515,
+      "mistakes": 24
     }
   }
 ]
